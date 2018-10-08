@@ -2,16 +2,6 @@
 
 This is a personal deposit for computer graphics related resources.
 
-## Cheatsheets
-
-### Algorithms and pipelines
-
-![](graphics1.jpg)
-
-### API commands
-
-![](graphics2.jpg)
-
 ## Blogs and Websites
 
 * http://erich.realtimerendering.com
