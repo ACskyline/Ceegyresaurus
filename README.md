@@ -6,7 +6,7 @@ This is a personal deposit for computer graphics related resources.
 
 ### Textures
 
-* [DXT and BCn Compressions](http://reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
+* [DXT and BC Compressions](http://reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
 
 ### Procedural Graphics
 
