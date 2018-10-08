@@ -10,7 +10,7 @@ This is a personal deposit for computer graphics related resources.
 
 ### Procedural Graphics
 
-* [Signed Distance Functions](https://www.iquilezles.org/www/articles/distfunctions/distfunctions.html)
+* [Signed Distance Functions](https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm)
 
 * [Perlin Noise](http://flafla2.github.io/2014/08/09/perlinnoise.html)
 
