@@ -67,3 +67,15 @@ This is a personal deposit for computer graphics related resources.
 * http://lousodrome.net/blog/light
 
 * http://kesen.realtimerendering.com
+
+---
+
+## Notes
+
+* D3D use right multiply while OpenGL use left multiply
+
+* D3D use left hand coordinates while OpenGL use right hand coordinates
+
+* D3D texture start at top-left corner while OpenGL texture start from bottom-left corner
+
+* D3D z value in NDC ranges from 0 to 1 while OpenGL z value in NDC ranges from -1 to 1 
