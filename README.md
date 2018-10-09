@@ -64,6 +64,8 @@ This is a personal deposit for computer graphics related resources.
 
 * http://fabiensanglard.net
 
+* http://madebyevan.com/
+
 * http://www.ludicon.com/castano/blog
 
 * http://efficientshading.com
