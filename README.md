@@ -42,6 +42,10 @@ This is a personal deposit for computer graphics related resources.
 
 * [Reversed Z Buffer](https://developer.nvidia.com/content/depth-precision-visualized)
 
+### APIs
+
+* [Mapping between HLSL and GLSL](https://anteru.net/blog/2016/mapping-between-hlsl-and-glsl/index.html)
+
 ---
 
 ## Blogs and Websites
