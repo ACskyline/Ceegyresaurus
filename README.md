@@ -82,10 +82,10 @@ This is a personal deposit for computer graphics related resources.
 
 ## Notes
 
-* D3D use right multiply while OpenGL use left multiply
+* [D3D use right multiply while OpenGL use left multiply](https://docs.microsoft.com/en-us/windows/desktop/dxtecharts/the-direct3d-transformation-pipeline)
 
-* D3D use left hand coordinates while OpenGL use right hand coordinates
+* [D3D use left hand coordinates while OpenGL use right hand coordinates](https://docs.microsoft.com/en-us/windows/desktop/api/directxmath/nf-directxmath-xmmatrixlookatlh)
 
-* D3D texture start at top-left corner while OpenGL texture start from bottom-left corner
+* [D3D texture start at top-left corner while OpenGL texture start from bottom-left corner](https://docs.microsoft.com/en-us/windows/desktop/direct3d9/texture-coordinates)
 
-* D3D z value in NDC ranges from 0 to 1 while OpenGL z value in NDC ranges from -1 to 1 
+* [D3D z value in NDC ranges from 0 to 1 while OpenGL z value in NDC ranges from -1 to 1](https://docs.microsoft.com/en-us/windows/desktop/direct3d9/projection-transform)
