@@ -30,13 +30,17 @@ This is a personal deposit for computer graphics related resources.
 
 * [Variance Shadow Map](http://lousodrome.net/blog/light/2012/01/23/variance-shadow-maps/)
 
-* [Reversed Z Buffer](https://developer.nvidia.com/content/depth-precision-visualized)
-
 ### Programming
 
 * [Memory Allocator](https://github.com/mtrebi/memory-allocators#build-instructions)
 
 * [Streaming SIMD Extensions](http://sci.tuomastonteri.fi/programming/sse)
+
+### Rasterization
+
+* [Homogeneous Division after Clip Space](https://stackoverflow.com/questions/41085117/why-does-gl-divide-gl-position-by-w-for-you-rather-than-letting-you-do-it-your)
+
+* [Reversed Z Buffer](https://developer.nvidia.com/content/depth-precision-visualized)
 
 ---
 
