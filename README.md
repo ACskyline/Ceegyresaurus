@@ -30,6 +30,8 @@ This is a personal deposit for computer graphics related resources.
 
 * [Variance Shadow Map](http://lousodrome.net/blog/light/2012/01/23/variance-shadow-maps/)
 
+* [Reversed Z Buffer](https://developer.nvidia.com/content/depth-precision-visualized)
+
 ### Programming
 
 * [Memory Allocator](https://github.com/mtrebi/memory-allocators#build-instructions)
