@@ -68,6 +68,8 @@ This is a personal deposit for computer graphics related resources.
 
 * http://madebyevan.com/
 
+* http://taichi.graphics/
+
 * http://www.ludicon.com/castano/blog
 
 * http://efficientshading.com
