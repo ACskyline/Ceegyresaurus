@@ -20,7 +20,7 @@ This is a personal deposit for computer graphics related resources.
 
 * [VSync](https://computergraphics.stackexchange.com/questions/2166/how-does-vsync-affect-fps-exactly-when-not-at-full-vsync-fps)
 
-### Physics
+### Collision & Physics
 
 * [GJK Algorithm](https://caseymuratori.com/blog_0003)
 
