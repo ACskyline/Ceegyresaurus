@@ -56,17 +56,19 @@ This is a personal deposit for computer graphics related resources.
 
 * https://www.iquilezles.org
 
-* https://prideout.net/blog/old/blog.html
-
-* https://prideout.net/
-
 * https://herbsutter.com
 
 * http://reedbeta.com
 
+* https://bartwronski.com/
+
 * http://fabiensanglard.net
 
 * http://madebyevan.com/
+
+* https://prideout.net/blog/old/blog.html
+
+* https://prideout.net/
 
 * http://taichi.graphics/
 
