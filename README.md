@@ -1,6 +1,6 @@
 # Ceegyresuarus
 
-This is a personal deposit for computer graphics related resources.
+This is a personal deposit for computer graphics related resource.
 
 ---
 
@@ -83,6 +83,8 @@ This is a personal deposit for computer graphics related resources.
 * https://caseymuratori.com
 
 * http://www.adriancourreges.com
+
+* http://jpgrenier.org/index.html
 
 * http://lousodrome.net/blog/light
 
