@@ -52,6 +52,8 @@ This is a personal deposit for computer graphics related resources.
 
 ## Blogs and Websites
 
+* https://pharr.org/matt/blog/
+
 * http://erich.realtimerendering.com
 
 * https://www.iquilezles.org
