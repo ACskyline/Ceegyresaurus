@@ -68,17 +68,19 @@ This is a personal deposit for computer graphics related resource.
 
 * http://madebyevan.com/
 
+* https://mynameismjp.wordpress.com
+
 * https://prideout.net/blog/old/blog.html
 
 * https://prideout.net/
+
+* http://casual-effects.com/#blog
 
 * http://taichi.graphics/
 
 * http://www.ludicon.com/castano/blog
 
 * http://efficientshading.com
-
-* https://mynameismjp.wordpress.com
 
 * https://caseymuratori.com
 
@@ -89,6 +91,14 @@ This is a personal deposit for computer graphics related resource.
 * http://lousodrome.net/blog/light
 
 * http://kesen.realtimerendering.com
+
+---
+
+## Assets
+
+### Model
+
+* http://casual-effects.com/data/
 
 ---
 
