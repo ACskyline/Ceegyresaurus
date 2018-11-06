@@ -26,9 +26,13 @@ This is a personal deposit for computer graphics related resource.
 
 * [Separate Axis Theorem](https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169)
 
-### Rendering Techniques
+### Rendering
 
 * [Variance Shadow Map](http://lousodrome.net/blog/light/2012/01/23/variance-shadow-maps/)
+
+* [Spherical Harmonic Lighting](https://dickyjim.wordpress.com/2013/09/04/spherical-harmonics-for-beginners/)
+
+* [Light Probes](https://computergraphics.stackexchange.com/questions/4164/what-are-spherical-harmonics-light-probes)
 
 ### Programming
 
