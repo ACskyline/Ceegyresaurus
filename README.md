@@ -134,6 +134,6 @@ This is a personal deposit for computer graphics related resource.
 
 * [Virtual function can be inlined when called using the object of that class instead of base class reference or pointer.](https://www.geeksforgeeks.org/inline-virtual-function/)
 
-* [Virtual functions be private in C++.](https://www.geeksforgeeks.org/can-virtual-functions-be-private-in-c/)
+* [Virtual functions can be private in C++.](https://www.geeksforgeeks.org/can-virtual-functions-be-private-in-c/)
 
 * [C++ only allows static const integral members to be initialized inline.](https://stackoverflow.com/questions/225089/why-cant-we-initialize-members-inside-a-structure)
