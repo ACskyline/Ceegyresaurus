@@ -40,6 +40,10 @@ This is a personal deposit for computer graphics related resource.
 
 * [Streaming SIMD Extensions](http://sci.tuomastonteri.fi/programming/sse)
 
+* [C++ Array Decay](https://www.geeksforgeeks.org/what-is-array-decay-in-c-how-can-it-be-prevented/)
+
+* [C++ Pure Virtual Destructor](https://eli.thegreenplace.net/2010/11/13/pure-virtual-destructors-in-c)
+
 ### Rasterization
 
 * [Homogeneous Division after Clip Space](https://stackoverflow.com/questions/41085117/why-does-gl-divide-gl-position-by-w-for-you-rather-than-letting-you-do-it-your)
@@ -108,6 +112,8 @@ This is a personal deposit for computer graphics related resource.
 
 ## Notes
 
+### APIs
+
 * [D3D use right multiply while OpenGL use left multiply.](https://docs.microsoft.com/en-us/windows/desktop/dxtecharts/the-direct3d-transformation-pipeline)
 
 * [D3D use left hand coordinates while OpenGL use right hand coordinates by default.](https://docs.microsoft.com/en-us/windows/desktop/api/directxmath/nf-directxmath-xmmatrixlookatlh)
@@ -115,3 +121,17 @@ This is a personal deposit for computer graphics related resource.
 * [D3D texture start at top-left corner while OpenGL texture start from bottom-left corner.](https://docs.microsoft.com/en-us/windows/desktop/direct3d9/texture-coordinates)
 
 * [D3D z value in NDC ranges from 0 to 1 while OpenGL z value in NDC ranges from -1 to 1 by default.](https://docs.microsoft.com/en-us/windows/desktop/direct3d9/projection-transform)
+
+### C & C++
+
+* [Character literals are treated as int in C whereas char in C++.](https://www.geeksforgeeks.org/g-fact-54/)
+
+* [Sizeof operator will generate 0 for an empty structure in C whereas 1 for an empty structure in C++.](https://www.geeksforgeeks.org/difference-c-structures-c-structures/)
+
+* [Pass NULL as C++ function argument can lead to ambiguous function call when the function is overloaded to take int as argument.](https://www.geeksforgeeks.org/understanding-nullptr-c/)
+
+* [C allows a void* pointer to be assigned to any pointer type without a cast, whereas C++ requires an explicit cast.](https://www.geeksforgeeks.org/g-fact-12-2/)
+
+* [Virtual function can be inlined when called using the object of that class instead of base class reference or pointer.](https://www.geeksforgeeks.org/inline-virtual-function/)
+
+* [Virtual functions be private in C++.](https://www.geeksforgeeks.org/can-virtual-functions-be-private-in-c/)
