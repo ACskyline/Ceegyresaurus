@@ -32,7 +32,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [Spherical Harmonic Lighting](https://dickyjim.wordpress.com/2013/09/04/spherical-harmonics-for-beginners/)
 
-* [Light Probes](https://computergraphics.stackexchange.com/questions/4164/what-are-spherical-harmonics-light-probes)
+* [Light Probe](https://computergraphics.stackexchange.com/questions/4164/what-are-spherical-harmonics-light-probes)
 
 ### Programming
 
