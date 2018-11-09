@@ -34,7 +34,9 @@ This is a personal deposit for computer graphics related resource.
 
 * [Light Probe](https://computergraphics.stackexchange.com/questions/4164/what-are-spherical-harmonics-light-probes)
 
-* [Volumetric Lighting](https://www.ea.com/frostbite/news/physically-based-unified-volumetric-rendering-in-frostbite)
+* [Volumetric Lighting](https://developer.nvidia.com/VolumetricLighting)
+
+* [Volumetric Rendering](https://www.ea.com/frostbite/news/physically-based-unified-volumetric-rendering-in-frostbite)
 
 ### Programming
 
