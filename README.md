@@ -34,6 +34,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [Light Probe](https://computergraphics.stackexchange.com/questions/4164/what-are-spherical-harmonics-light-probes)
 
+* [Volumetric Lighting](https://www.ea.com/frostbite/news/physically-based-unified-volumetric-rendering-in-frostbite)
+
 ### Programming
 
 * [Memory Allocator](https://github.com/mtrebi/memory-allocators#build-instructions)
