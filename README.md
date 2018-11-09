@@ -104,6 +104,8 @@ This is a personal deposit for computer graphics related resource.
 
 * http://lousodrome.net/blog/light
 
+* https://www.alanzucconi.com/tutorials/
+
 * http://kesen.realtimerendering.com
 
 ---
