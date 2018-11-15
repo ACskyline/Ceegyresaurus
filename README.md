@@ -62,6 +62,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [Mapping between HLSL and GLSL](https://anteru.net/blog/2016/mapping-between-hlsl-and-glsl/index.html)
 
+* [Discriptor Binding in DX12 and Vulkan](https://www.gamedev.net/forums/topic/678860-descriptor-binding-dx12-and-vulkan/)
+
 ---
 
 ## Blogs and Websites
