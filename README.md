@@ -148,4 +148,4 @@ This is a personal deposit for computer graphics related resource.
 
 * [Virtual functions can be private in C++.](https://www.geeksforgeeks.org/can-virtual-functions-be-private-in-c/)
 
-* [C++ only allows static const integral members to be initialized inline.](https://stackoverflow.com/questions/225089/why-cant-we-initialize-members-inside-a-structure)
+* [C++ only allows static const integral members to be initialized inline before C++ 11.](https://stackoverflow.com/questions/225089/why-cant-we-initialize-members-inside-a-structure)
