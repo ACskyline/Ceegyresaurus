@@ -64,7 +64,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [Discriptor Binding in DX12 and Vulkan](https://www.gamedev.net/forums/topic/678860-descriptor-binding-dx12-and-vulkan/)
 
-* [DX12 dos and don'ts](https://developer.nvidia.com/dx12-dos-and-donts)
+* [DX12 do's and don'ts](https://developer.nvidia.com/dx12-dos-and-donts)
 
 ---
 
