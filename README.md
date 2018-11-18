@@ -68,6 +68,10 @@ This is a personal deposit for computer graphics related resource.
 
 * [DX12 root signature & Vulkan descriptor sets](https://gpuopen.com/performance-root-signature-descriptor-sets/)
 
+* [Common HRESULT Values](https://docs.microsoft.com/en-us/windows/desktop/seccrypto/common-hresult-values)
+
+* [Error codes that can be returned by a DXGI function](https://docs.microsoft.com/en-us/windows/desktop/direct3ddxgi/dxgi-error)
+
 ---
 
 ## Blogs and Websites
