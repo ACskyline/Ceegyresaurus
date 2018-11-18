@@ -66,6 +66,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [DX12 do's and don'ts](https://developer.nvidia.com/dx12-dos-and-donts)
 
+* [DX12 root signature & Vulkan descriptor sets](https://gpuopen.com/performance-root-signature-descriptor-sets/)
+
 ---
 
 ## Blogs and Websites
