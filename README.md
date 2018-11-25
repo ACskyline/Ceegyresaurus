@@ -144,6 +144,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [D3D z value in NDC ranges from 0 to 1 while OpenGL z value in NDC ranges from -1 to 1 by default.](https://docs.microsoft.com/en-us/windows/desktop/direct3d9/projection-transform)
 
+* [D3D12_RESOURCE_STATE_NON_PIXEL_SHADER_RESOURCE is actually NON_Pixel_Shader_SHADER_RESOURCE.](https://docs.microsoft.com/en-us/windows/desktop/api/d3d12/ne-d3d12-d3d12_resource_states)
+
 ### C & C++
 
 * [Character literals are treated as int in C whereas char in C++.](https://www.geeksforgeeks.org/g-fact-54/)
