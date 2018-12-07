@@ -38,6 +38,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [Volumetric Rendering](https://www.ea.com/frostbite/news/physically-based-unified-volumetric-rendering-in-frostbite)
 
+* [Screen Space Deferred Decal](https://bartwronski.com/2015/03/12/fixing-screen-space-deferred-decals/)
+
 ### Programming
 
 * [Memory Allocator](https://github.com/mtrebi/memory-allocators#build-instructions)
@@ -121,6 +123,8 @@ This is a personal deposit for computer graphics related resource.
 * http://lousodrome.net/blog/light
 
 * https://www.alanzucconi.com/tutorials/
+
+* http://humus.name/index.php?page=News
 
 * http://kesen.realtimerendering.com
 
