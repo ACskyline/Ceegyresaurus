@@ -76,6 +76,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [Error codes that can be returned by a DXGI function](https://docs.microsoft.com/en-us/windows/desktop/direct3ddxgi/dxgi-error)
 
+* [Windows 10 adds a border around a window](https://stackoverflow.com/questions/34139450/getwindowrect-returns-a-size-including-invisible-borders)
+
 ---
 
 ## Blogs and Websites
