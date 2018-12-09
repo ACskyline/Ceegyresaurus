@@ -128,6 +128,8 @@ This is a personal deposit for computer graphics related resource.
 
 * http://kesen.realtimerendering.com
 
+* http://advances.realtimerendering.com/
+
 ---
 
 ## Assets
