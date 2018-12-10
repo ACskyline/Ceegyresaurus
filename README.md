@@ -84,7 +84,7 @@ This is a personal deposit for computer graphics related resource.
 
 ## Blogs and Websites
 
-* https://www.jendrikillner.com/post/graphics-programming-weekly-issue-66/
+* https://www.jendrikillner.com/post/
 
 * https://pharr.org/matt/blog/
 
