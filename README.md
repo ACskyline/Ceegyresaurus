@@ -178,7 +178,9 @@ This is a personal deposit for computer graphics related resource.
 
 * [D3D z value in NDC ranges from 0 to 1 while OpenGL z value in NDC ranges from -1 to 1 by default.](https://docs.microsoft.com/en-us/windows/desktop/direct3d9/projection-transform)
 
-* [D3D12_RESOURCE_STATE_NON_PIXEL_SHADER_RESOURCE is actually NON_Pixel_Shader_SHADER_RESOURCE.](https://docs.microsoft.com/en-us/windows/desktop/api/d3d12/ne-d3d12-d3d12_resource_states)
+* [D3D12_RESOURCE_STATE_NON_PIXEL_SHADER_RESOURCE is actually NON Pixel Shader SHADER RESOURCE. It's for VS, HS, DS and GS.](https://docs.microsoft.com/en-us/windows/desktop/api/d3d12/ne-d3d12-d3d12_resource_states)
+
+* [D3D SV_Position.w is w while gl_FragCoord.w is 1/w](https://www.gamedev.net/forums/topic/698741-w-component-of-sv_positiongl_fragcoord/?tab=comments#comment-5397351)
 
 ### C & C++
 
