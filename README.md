@@ -180,7 +180,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [D3D12_RESOURCE_STATE_NON_PIXEL_SHADER_RESOURCE is actually NON Pixel Shader SHADER RESOURCE. It's for VS, HS, DS and GS.](https://docs.microsoft.com/en-us/windows/desktop/api/d3d12/ne-d3d12-d3d12_resource_states)
 
-* [D3D SV_Position.w is w while gl_FragCoord.w is 1/w](https://www.gamedev.net/forums/topic/698741-w-component-of-sv_positiongl_fragcoord/?tab=comments#comment-5397351)
+* [D3D SV_Position.w is w while gl_FragCoord.w is 1/w.](https://www.gamedev.net/forums/topic/698741-w-component-of-sv_positiongl_fragcoord/?tab=comments#comment-5397351)
 
 ### C & C++
 
