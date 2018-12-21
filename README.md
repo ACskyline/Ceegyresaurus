@@ -80,6 +80,10 @@ This is a personal deposit for computer graphics related resource.
 
 * [A Trip Through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/06/a-trip-through-the-graphics-pipeline-2011-part-6/)
 
+### Anti-Aliasing
+
+* [Subpixel Morphological Anti-Aliasing](http://www.iryoku.com/smaa/)
+
 ### Tessellation
 
 * [Tessellation Modes Quick Reference](http://reedbeta.com/blog/tess-quick-ref/)
