@@ -112,6 +112,8 @@ This is a personal deposit for computer graphics related resource.
 
 * https://mynameismjp.wordpress.com
 
+* https://blogs.msdn.microsoft.com/shawnhar/
+
 * https://prideout.net/blog/old/blog.html
 
 * https://prideout.net/
