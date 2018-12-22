@@ -4,24 +4,6 @@ This is a personal deposit for computer graphics related resource.
 
 ---
 
-## Questions
-
-### Is W Component in SV_Position the same as w component in gl_FragCoord? (From my experiments, they are not same. But various sources claim they are the same except the first link.)
-
-* https://www.gamedev.net/forums/topic/698741-w-component-of-sv_positiongl_fragcoord/
-
-* https://stackoverflow.com/questions/13711252/what-does-gl-fragcoord-z-gl-fragcoord-w-represent
-
-* https://anteru.net/blog/2016/mapping-between-hlsl-and-glsl/index.html
-
-* https://docs.microsoft.com/en-us/windows/uwp/gaming/glsl-to-hlsl-reference
-
-* https://www.khronos.org/registry/OpenGL-Refpages/gl4/html/gl_FragCoord.xhtml
-
-* https://www.gamedev.net/forums/topic/594061-sv-position/
-
----
-
 ## Topics
 
 ### Textures
@@ -57,6 +39,8 @@ This is a personal deposit for computer graphics related resource.
 * [Volumetric Rendering](https://www.ea.com/frostbite/news/physically-based-unified-volumetric-rendering-in-frostbite)
 
 * [Screen Space Deferred Decal](https://bartwronski.com/2015/03/12/fixing-screen-space-deferred-decals/)
+
+* [Premultiplied-Alpha](https://blogs.msdn.microsoft.com/shawnhar/2009/11/06/premultiplied-alpha/)
 
 ### Programming
 
@@ -168,7 +152,7 @@ This is a personal deposit for computer graphics related resource.
 
 ## Notes
 
-### APIs
+### Direct3D & OpenGL
 
 * [D3D use right multiply while OpenGL use left multiply.](https://docs.microsoft.com/en-us/windows/desktop/dxtecharts/the-direct3d-transformation-pipeline)
 
