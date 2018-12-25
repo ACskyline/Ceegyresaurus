@@ -10,6 +10,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [DXT and BC Compressions](http://reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
 
+* [D3D11 Texture Format and Feature Support](https://docs.microsoft.com/en-us/windows/desktop/direct3ddxgi/format-support-for-direct3d-11-0-feature-level-hardware)
+
 ### Procedural Graphics
 
 * [Signed Distance Functions](https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm)
