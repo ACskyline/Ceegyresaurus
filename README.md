@@ -56,7 +56,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [Build a Heap in O(n) Time Complexity](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity)
 
-* [Difference between VERITY and ASSERT](https://stackoverflow.com/questions/2642424/is-verify-a-good-practice-in-c-coding)
+* [Difference between VERIFY and ASSERT](https://stackoverflow.com/questions/2642424/is-verify-a-good-practice-in-c-coding)
 
 ### Rasterization
 
