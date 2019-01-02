@@ -44,6 +44,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [Premultiplied-Alpha](https://blogs.msdn.microsoft.com/shawnhar/2009/11/06/premultiplied-alpha/)
 
+* [Real-Time Volumetric Rendering](https://patapom.com/topics/Revision2013/Revision%202013%20-%20Real-time%20Volumetric%20Rendering%20Course%20Notes.pdf)
+
 ### Programming
 
 * [Memory Allocator](https://github.com/mtrebi/memory-allocators#build-instructions)
