@@ -18,6 +18,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [Perlin Noise](http://flafla2.github.io/2014/08/09/perlinnoise.html)
 
+* [Simplex Noise](http://staffwww.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf)
+
 ### GPU
 
 * [VSync](https://computergraphics.stackexchange.com/questions/2166/how-does-vsync-affect-fps-exactly-when-not-at-full-vsync-fps)
