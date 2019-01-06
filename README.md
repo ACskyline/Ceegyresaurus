@@ -24,11 +24,13 @@ This is a personal deposit for computer graphics related resource.
 
 * [VSync](https://computergraphics.stackexchange.com/questions/2166/how-does-vsync-affect-fps-exactly-when-not-at-full-vsync-fps)
 
-### Collision & Physics
+### Math & Physics
 
 * [GJK Algorithm](https://caseymuratori.com/blog_0003)
 
 * [Separate Axis Theorem](https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169)
+
+* [The Jacobi and Gauss-Seidel Iterative Methods](https://www3.nd.edu/~zxu2/acms40390F12/Lec-7.3.pdf)
 
 ### Rendering
 
