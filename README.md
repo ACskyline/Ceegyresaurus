@@ -4,15 +4,15 @@ This is a personal deposit for computer graphics related resource.
 
 ---
 
-## Topics
+## I.Topics
 
-### Textures
+### 1.Textures
 
 * [DXT and BC Compressions](http://reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
 
 * [D3D11 Texture Format and Feature Support](https://docs.microsoft.com/en-us/windows/desktop/direct3ddxgi/format-support-for-direct3d-11-0-feature-level-hardware)
 
-### Procedural Graphics
+### 2.Procedural Graphics
 
 * [Signed Distance Functions](https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm)
 
@@ -20,11 +20,11 @@ This is a personal deposit for computer graphics related resource.
 
 * [Simplex Noise](http://staffwww.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf)
 
-### GPU
+### 3.GPU
 
 * [VSync](https://computergraphics.stackexchange.com/questions/2166/how-does-vsync-affect-fps-exactly-when-not-at-full-vsync-fps)
 
-### Math & Physics
+### 4.Math & Physics
 
 * [GJK Algorithm](https://caseymuratori.com/blog_0003)
 
@@ -32,7 +32,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [The Jacobi and Gauss-Seidel Iterative Methods](https://www3.nd.edu/~zxu2/acms40390F12/Lec-7.3.pdf)
 
-### Rendering
+### 5.Rendering
 
 * [Variance Shadow Map](http://lousodrome.net/blog/light/2012/01/23/variance-shadow-maps/)
 
@@ -52,7 +52,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [A Particle System Example](http://alextardif.com/Particles.html)
 
-### Programming
+### 6.Programming
 
 * [Memory Allocator](https://github.com/mtrebi/memory-allocators#build-instructions)
 
@@ -66,7 +66,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [Difference between VERIFY and ASSERT](https://stackoverflow.com/questions/2642424/is-verify-a-good-practice-in-c-coding)
 
-### Rasterization
+### 7.Rasterization
 
 * [Homogeneous Division after Clip Space](https://stackoverflow.com/questions/41085117/why-does-gl-divide-gl-position-by-w-for-you-rather-than-letting-you-do-it-your)
 
@@ -74,15 +74,15 @@ This is a personal deposit for computer graphics related resource.
 
 * [A Trip Through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/06/a-trip-through-the-graphics-pipeline-2011-part-6/)
 
-### Anti-Aliasing
+### 8.Anti-Aliasing
 
 * [Subpixel Morphological Anti-Aliasing](http://www.iryoku.com/smaa/)
 
-### Tessellation
+### 9.Tessellation
 
 * [Tessellation Modes Quick Reference](http://reedbeta.com/blog/tess-quick-ref/)
 
-### APIs
+### 10.APIs
 
 * [Mapping between HLSL and GLSL](https://anteru.net/blog/2016/mapping-between-hlsl-and-glsl/index.html)
 
@@ -100,7 +100,7 @@ This is a personal deposit for computer graphics related resource.
 
 ---
 
-## Blogs and Websites
+## II.Blogs and Websites
 
 * https://www.jendrikillner.com/post/
 
@@ -156,7 +156,7 @@ This is a personal deposit for computer graphics related resource.
 
 ---
 
-## Assets
+## III.Assets
 
 ### Model
 
@@ -164,9 +164,9 @@ This is a personal deposit for computer graphics related resource.
 
 ---
 
-## Notes
+## IV.Notes
 
-### Direct3D & OpenGL
+### 1.Direct3D & OpenGL
 
 * [D3D use right multiply while OpenGL use left multiply.](https://docs.microsoft.com/en-us/windows/desktop/dxtecharts/the-direct3d-transformation-pipeline)
 
@@ -180,7 +180,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [D3D SV_Position.w is w while gl_FragCoord.w is 1/w.](https://www.gamedev.net/forums/topic/698741-w-component-of-sv_positiongl_fragcoord/?tab=comments#comment-5397351)
 
-### C & C++
+### 2.C & C++
 
 * [Character literals are treated as int in C whereas char in C++.](https://www.geeksforgeeks.org/g-fact-54/)
 
