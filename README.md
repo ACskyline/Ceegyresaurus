@@ -42,13 +42,13 @@ This is a personal deposit for computer graphics related resource.
 
 * [Volumetric Lighting](https://developer.nvidia.com/VolumetricLighting)
 
-* [Volumetric Rendering](https://www.ea.com/frostbite/news/physically-based-unified-volumetric-rendering-in-frostbite)
+* [Siggraph 2015 EA Volumetric Rendering](https://www.ea.com/frostbite/news/physically-based-unified-volumetric-rendering-in-frostbite)
 
 * [Screen Space Deferred Decal](https://bartwronski.com/2015/03/12/fixing-screen-space-deferred-decals/)
 
 * [Premultiplied-Alpha](https://blogs.msdn.microsoft.com/shawnhar/2009/11/06/premultiplied-alpha/)
 
-* [Real-Time Volumetric Rendering](https://patapom.com/topics/Revision2013/Revision%202013%20-%20Real-time%20Volumetric%20Rendering%20Course%20Notes.pdf)
+* [Real-Time Volumetric Rendering by Patapom](https://patapom.com/topics/Revision2013/Revision%202013%20-%20Real-time%20Volumetric%20Rendering%20Course%20Notes.pdf)
 
 * [A Particle System Example](http://alextardif.com/Particles.html)
 
