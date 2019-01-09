@@ -124,6 +124,8 @@ This is a personal deposit for computer graphics related resource.
 
 * https://mynameismjp.wordpress.com
 
+* https://blog.demofox.org/
+
 * http://alextardif.com/index.html
 
 * https://blogs.msdn.microsoft.com/shawnhar/
