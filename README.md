@@ -92,6 +92,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [DX12 root signature & Vulkan descriptor sets](https://gpuopen.com/performance-root-signature-descriptor-sets/)
 
+* [Difference between DX12 & Vulkan command queues](https://www.gamedev.net/forums/topic/700092-directx-12-command-queues/?do=findComment&comment=5396143)
+
 * [Common HRESULT Values](https://docs.microsoft.com/en-us/windows/desktop/seccrypto/common-hresult-values)
 
 * [Error codes that can be returned by a DXGI function](https://docs.microsoft.com/en-us/windows/desktop/direct3ddxgi/dxgi-error)
