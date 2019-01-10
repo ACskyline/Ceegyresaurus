@@ -20,9 +20,15 @@ This is a personal deposit for computer graphics related resource.
 
 * [Simplex Noise](http://staffwww.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf)
 
-### GPU
+### GPU & CPU
 
 * [VSync](https://computergraphics.stackexchange.com/questions/2166/how-does-vsync-affect-fps-exactly-when-not-at-full-vsync-fps)
+
+* [Cache Coherency](https://fgiesen.wordpress.com/2014/07/07/cache-coherency/)
+
+* [Asynchronous Timewarp](https://developer.oculus.com/blog/asynchronous-timewarp-on-oculus-rift/)
+
+* [WDDM](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/windows-vista-display-driver-model-design-guide) & [XDDM](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/windows-2000-display-driver-model-design-guide)
 
 ### Math & Physics
 
