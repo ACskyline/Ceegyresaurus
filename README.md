@@ -180,7 +180,7 @@ This is a personal deposit for computer graphics related resource.
 
 ## IV.Notes
 
-### 1.Direct3D & OpenGL
+### Direct3D & OpenGL
 
 * [D3D use right multiply while OpenGL use left multiply.](https://docs.microsoft.com/en-us/windows/desktop/dxtecharts/the-direct3d-transformation-pipeline)
 
@@ -194,7 +194,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [D3D SV_Position.w is w while gl_FragCoord.w is 1/w.](https://www.gamedev.net/forums/topic/698741-w-component-of-sv_positiongl_fragcoord/?tab=comments#comment-5397351)
 
-### 2.C & C++
+### C & C++
 
 * [Character literals are treated as int in C whereas char in C++.](https://www.geeksforgeeks.org/g-fact-54/)
 
