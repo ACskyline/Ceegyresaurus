@@ -148,6 +148,8 @@ This is a personal deposit for computer graphics related resource.
 
 * http://efficientshading.com
 
+* https://raytracey.blogspot.com/
+
 * https://caseymuratori.com
 
 * http://www.adriancourreges.com
