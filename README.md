@@ -88,6 +88,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [Tessellation Modes Quick Reference](http://reedbeta.com/blog/tess-quick-ref/)
 
+* [CDLOD Terrain](https://github.com/fstrugar/CDLOD)
+
 ### APIs
 
 * [Mapping between HLSL and GLSL](https://anteru.net/blog/2016/mapping-between-hlsl-and-glsl/index.html)
