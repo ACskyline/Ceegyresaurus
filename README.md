@@ -178,7 +178,7 @@ This is a personal deposit for computer graphics related resource.
 
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html
 
-* [PBRT](http://www.pbr-book.org/)
+* [Physically Based Rendering: From Theory To Implementation Third Edition](http://www.pbr-book.org/)
 
 ### 3D Models
 
@@ -186,7 +186,7 @@ This is a personal deposit for computer graphics related resource.
 
 ### Tools
 
-* [ETW](https://randomascii.wordpress.com/2015/09/24/etw-central/)
+* [UIforETW](https://randomascii.wordpress.com/2015/09/24/etw-central/)
 
 ---
 
