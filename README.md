@@ -58,6 +58,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [A Particle System Example](http://alextardif.com/Particles.html)
 
+* [Physically Based Sky, Atmosphere & Cloud Rendering](https://www.ea.com/frostbite/news/physically-based-sky-atmosphere-and-cloud-rendering)
+
 ### Programming
 
 * [Memory Allocator](https://github.com/mtrebi/memory-allocators#build-instructions)
