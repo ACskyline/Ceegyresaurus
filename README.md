@@ -178,6 +178,8 @@ This is a personal deposit for computer graphics related resource.
 
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html
 
+* [PBRT](http://www.pbr-book.org/)
+
 ### 3D Models
 
 * http://casual-effects.com/data/
