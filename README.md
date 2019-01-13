@@ -174,6 +174,10 @@ This is a personal deposit for computer graphics related resource.
 
 ## III.Assets
 
+### Free Books
+
+* https://ebookfoundation.github.io/free-programming-books/free-programming-books.html
+
 ### 3D Models
 
 * http://casual-effects.com/data/
