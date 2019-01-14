@@ -42,6 +42,10 @@ This is a personal deposit for computer graphics related resource.
 
 * [Variance Shadow Map](http://lousodrome.net/blog/light/2012/01/23/variance-shadow-maps/)
 
+* [Cascaded Shadow Map](https://developer.download.nvidia.com/SDK/10.5/opengl/src/cascaded_shadow_maps/doc/cascaded_shadow_maps.pdf)
+
+* [Parallel-Split Shadow Map](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch10.html)
+
 * [Spherical Harmonic Lighting](https://dickyjim.wordpress.com/2013/09/04/spherical-harmonics-for-beginners/)
 
 * [Light Probe](https://computergraphics.stackexchange.com/questions/4164/what-are-spherical-harmonics-light-probes)
