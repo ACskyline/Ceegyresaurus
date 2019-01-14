@@ -74,6 +74,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [Difference between VERIFY and ASSERT](https://stackoverflow.com/questions/2642424/is-verify-a-good-practice-in-c-coding)
 
+* [Initialization in C++](https://mikelui.io/2019/01/03/seriously-bonkers.html)
+
 ### Rasterization
 
 * [Homogeneous Division after Clip Space](https://stackoverflow.com/questions/41085117/why-does-gl-divide-gl-position-by-w-for-you-rather-than-letting-you-do-it-your)
