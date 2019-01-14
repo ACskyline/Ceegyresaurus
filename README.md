@@ -80,6 +80,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [Initialization in C++](https://mikelui.io/2019/01/03/seriously-bonkers.html)
 
+* [Writing Main Function in an Array](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
+
 ### Rasterization
 
 * [Homogeneous Division after Clip Space](https://stackoverflow.com/questions/41085117/why-does-gl-divide-gl-position-by-w-for-you-rather-than-letting-you-do-it-your)
