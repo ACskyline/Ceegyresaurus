@@ -218,6 +218,10 @@ This is a personal deposit for computer graphics related resource.
 
 ## IV.Notes
 
+### Rendering
+
+* [Cascaded Shadow Map is actually the name given to Parallel Split Shadow Map after its adoption/abduction from academic world to gamedev world](https://developer.download.nvidia.com/SDK/10.5/opengl/src/cascaded_shadow_maps/doc/cascaded_shadow_maps.pdf)
+
 ### Direct3D & OpenGL
 
 * [D3D use right multiply while OpenGL use left multiply.](https://docs.microsoft.com/en-us/windows/desktop/dxtecharts/the-direct3d-transformation-pipeline)
