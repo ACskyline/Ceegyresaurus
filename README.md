@@ -84,6 +84,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [Floating Point Math](https://randomascii.wordpress.com/category/floating-point/)
 
+* [A Matter of Precision](http://tomforsyth1000.github.io/blog.wiki.html#%5B%5BA%20matter%20of%20precision%5D%5D)
+
 ### Rasterization
 
 * [Homogeneous Division after Clip Space](https://stackoverflow.com/questions/41085117/why-does-gl-divide-gl-position-by-w-for-you-rather-than-letting-you-do-it-your)
@@ -143,6 +145,10 @@ This is a personal deposit for computer graphics related resource.
 * http://madebyevan.com/
 
 * https://mynameismjp.wordpress.com
+
+* http://eelpi.gotdns.org/blog.wiki.html
+
+* http://c0de517e.blogspot.com/
 
 * https://blog.demofox.org/
 
