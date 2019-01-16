@@ -82,6 +82,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [Writing Main Function in an Array](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 
+* [Floating Point Math](https://randomascii.wordpress.com/category/floating-point/)
+
 ### Rasterization
 
 * [Homogeneous Division after Clip Space](https://stackoverflow.com/questions/41085117/why-does-gl-divide-gl-position-by-w-for-you-rather-than-letting-you-do-it-your)
