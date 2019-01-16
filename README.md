@@ -156,6 +156,8 @@ This is a personal deposit for computer graphics related resource.
 
 * http://eelpi.gotdns.org/blog.wiki.html
 
+* https://randomascii.wordpress.com/
+
 * http://c0de517e.blogspot.com/
 
 * https://blog.demofox.org/
