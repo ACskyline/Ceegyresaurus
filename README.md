@@ -44,7 +44,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [Variance Shadow Map](http://lousodrome.net/blog/light/2012/01/23/variance-shadow-maps/)
 
-* [Cascaded Shadow Map](https://developer.download.nvidia.com/SDK/10.5/opengl/src/cascaded_shadow_maps/doc/cascaded_shadow_maps.pdf)
+* [Cascaded Shadow Map (Parallel Split Shadow Map)](https://developer.download.nvidia.com/SDK/10.5/opengl/src/cascaded_shadow_maps/doc/cascaded_shadow_maps.pdf)
 
 * [Sparse Shadow Tree](https://www.activision.com/cdn/research/SparseShadowTree.pdf)
 
