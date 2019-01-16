@@ -40,12 +40,6 @@ This is a personal deposit for computer graphics related resource.
 
 ### Rendering
 
-* [Variance Shadow Map](http://lousodrome.net/blog/light/2012/01/23/variance-shadow-maps/)
-
-* [Cascaded Shadow Map](https://developer.download.nvidia.com/SDK/10.5/opengl/src/cascaded_shadow_maps/doc/cascaded_shadow_maps.pdf)
-
-* [Parallel-Split Shadow Map](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch10.html)
-
 * [Spherical Harmonic Lighting](https://dickyjim.wordpress.com/2013/09/04/spherical-harmonics-for-beginners/)
 
 * [Light Probe](https://computergraphics.stackexchange.com/questions/4164/what-are-spherical-harmonics-light-probes)
@@ -63,6 +57,24 @@ This is a personal deposit for computer graphics related resource.
 * [A Particle System Example](http://alextardif.com/Particles.html)
 
 * [Physically Based Sky, Atmosphere & Cloud Rendering](https://www.ea.com/frostbite/news/physically-based-sky-atmosphere-and-cloud-rendering)
+
+## Shadow Mapping
+
+* [Variance Shadow Map](http://lousodrome.net/blog/light/2012/01/23/variance-shadow-maps/)
+
+* [Cascaded Shadow Map](https://developer.download.nvidia.com/SDK/10.5/opengl/src/cascaded_shadow_maps/doc/cascaded_shadow_maps.pdf)
+
+* [Parallel-Split Shadow Map](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch10.html)
+
+* [Sparse Shadow Tree](https://www.activision.com/cdn/research/SparseShadowTree.pdf)
+
+## Anti-Aliasing
+
+* [Subpixel Morphological Anti-Aliasing](http://www.iryoku.com/smaa/)
+
+* [FXAA](https://developer.download.nvidia.com/assets/gamedev/files/sdk/11/FXAA_WhitePaper.pdf)
+
+* [Deferred MSAA](https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/antialiaseddeferredrendering.htm)
 
 ### Programming
 
@@ -93,10 +105,6 @@ This is a personal deposit for computer graphics related resource.
 * [Reversed Z Buffer](https://developer.nvidia.com/content/depth-precision-visualized)
 
 * [A Trip Through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/06/a-trip-through-the-graphics-pipeline-2011-part-6/)
-
-### Anti-Aliasing
-
-* [Subpixel Morphological Anti-Aliasing](http://www.iryoku.com/smaa/)
 
 ### Tessellation
 
