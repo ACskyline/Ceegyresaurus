@@ -40,25 +40,7 @@ This is a personal deposit for computer graphics related resource.
 
 ### Rendering
 
-* [Spherical Harmonic Lighting](https://dickyjim.wordpress.com/2013/09/04/spherical-harmonics-for-beginners/)
-
-* [Light Probe](https://computergraphics.stackexchange.com/questions/4164/what-are-spherical-harmonics-light-probes)
-
-* [Volumetric Lighting](https://developer.nvidia.com/VolumetricLighting)
-
-* [Siggraph 2015 EA Volumetric Rendering](https://www.ea.com/frostbite/news/physically-based-unified-volumetric-rendering-in-frostbite)
-
-* [Screen Space Deferred Decal](https://bartwronski.com/2015/03/12/fixing-screen-space-deferred-decals/)
-
-* [Premultiplied-Alpha](https://blogs.msdn.microsoft.com/shawnhar/2009/11/06/premultiplied-alpha/)
-
-* [Real-Time Volumetric Rendering by Patapom](https://patapom.com/topics/Revision2013/Revision%202013%20-%20Real-time%20Volumetric%20Rendering%20Course%20Notes.pdf)
-
-* [A Particle System Example](http://alextardif.com/Particles.html)
-
-* [Physically Based Sky, Atmosphere & Cloud Rendering](https://www.ea.com/frostbite/news/physically-based-sky-atmosphere-and-cloud-rendering)
-
-## Shadow Mapping
+#### Shadow Mapping
 
 * [Variance Shadow Map](http://lousodrome.net/blog/light/2012/01/23/variance-shadow-maps/)
 
@@ -68,13 +50,35 @@ This is a personal deposit for computer graphics related resource.
 
 * [Sparse Shadow Tree](https://www.activision.com/cdn/research/SparseShadowTree.pdf)
 
-## Anti-Aliasing
+#### Anti-Aliasing
 
 * [Subpixel Morphological Anti-Aliasing](http://www.iryoku.com/smaa/)
 
 * [FXAA](https://developer.download.nvidia.com/assets/gamedev/files/sdk/11/FXAA_WhitePaper.pdf)
 
 * [Deferred MSAA](https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/antialiaseddeferredrendering.htm)
+
+#### Volumetric Rendering
+
+* [Real-Time Volumetric Rendering by Patapom](https://patapom.com/topics/Revision2013/Revision%202013%20-%20Real-time%20Volumetric%20Rendering%20Course%20Notes.pdf)
+
+* [Volumetric Lighting](https://developer.nvidia.com/VolumetricLighting)
+
+* [Physically Based Sky, Atmosphere & Cloud Rendering](https://www.ea.com/frostbite/news/physically-based-sky-atmosphere-and-cloud-rendering)
+
+* [Siggraph 2015 EA Volumetric Rendering](https://www.ea.com/frostbite/news/physically-based-unified-volumetric-rendering-in-frostbite)
+
+#### Misc.
+
+* [Spherical Harmonic Lighting](https://dickyjim.wordpress.com/2013/09/04/spherical-harmonics-for-beginners/)
+
+* [Light Probe](https://computergraphics.stackexchange.com/questions/4164/what-are-spherical-harmonics-light-probes)
+
+* [Screen Space Deferred Decal](https://bartwronski.com/2015/03/12/fixing-screen-space-deferred-decals/)
+
+* [Premultiplied-Alpha](https://blogs.msdn.microsoft.com/shawnhar/2009/11/06/premultiplied-alpha/)
+
+* [A Particle System Example](http://alextardif.com/Particles.html)
 
 ### Programming
 
