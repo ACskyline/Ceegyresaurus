@@ -46,8 +46,6 @@ This is a personal deposit for computer graphics related resource.
 
 * [Cascaded Shadow Map](https://developer.download.nvidia.com/SDK/10.5/opengl/src/cascaded_shadow_maps/doc/cascaded_shadow_maps.pdf)
 
-* [Parallel-Split Shadow Map](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch10.html)
-
 * [Sparse Shadow Tree](https://www.activision.com/cdn/research/SparseShadowTree.pdf)
 
 #### Anti-Aliasing
@@ -220,7 +218,7 @@ This is a personal deposit for computer graphics related resource.
 
 ### Rendering
 
-* [Cascaded Shadow Map is actually the name given to Parallel Split Shadow Map after its adoption/abduction from academic world to gamedev world](https://developer.download.nvidia.com/SDK/10.5/opengl/src/cascaded_shadow_maps/doc/cascaded_shadow_maps.pdf)
+* [Parallel Split Shadow Map is the academic name for Cascaded Shadow Map](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch10.html)
 
 ### Direct3D & OpenGL
 
