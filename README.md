@@ -6,13 +6,13 @@ This is a personal deposit for computer graphics related resource.
 
 ## I.Topics
 
-### Textures
+### 1.Textures
 
 * [DXT and BC Compressions](http://reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
 
 * [D3D11 Texture Format and Feature Support](https://docs.microsoft.com/en-us/windows/desktop/direct3ddxgi/format-support-for-direct3d-11-0-feature-level-hardware)
 
-### Procedural Graphics
+### 2.Procedural Graphics
 
 * [Signed Distance Functions](https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm)
 
@@ -20,7 +20,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [Simplex Noise](http://staffwww.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf)
 
-### GPU & CPU
+### 3.GPU & CPU
 
 * [VSync](https://computergraphics.stackexchange.com/questions/2166/how-does-vsync-affect-fps-exactly-when-not-at-full-vsync-fps)
 
@@ -30,7 +30,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [WDDM](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/windows-vista-display-driver-model-design-guide) & [XDDM](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/windows-2000-display-driver-model-design-guide)
 
-### Math & Physics
+### 4.Math & Physics
 
 * [GJK Algorithm](https://caseymuratori.com/blog_0003)
 
@@ -38,7 +38,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [The Jacobi and Gauss-Seidel Iterative Methods](https://www3.nd.edu/~zxu2/acms40390F12/Lec-7.3.pdf)
 
-### Rendering
+### 5.Rendering
 
 #### Shadow Mapping
 
@@ -80,7 +80,11 @@ This is a personal deposit for computer graphics related resource.
 
 * [A Particle System Example](http://alextardif.com/Particles.html)
 
-### Programming
+* [Tessellation Modes Quick Reference](http://reedbeta.com/blog/tess-quick-ref/)
+
+* [CDLOD Terrain](https://github.com/fstrugar/CDLOD)
+
+### 6.Programming
 
 * [Memory Allocator](https://github.com/mtrebi/memory-allocators#build-instructions)
 
@@ -102,7 +106,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [A Matter of Precision](http://tomforsyth1000.github.io/blog.wiki.html#%5B%5BA%20matter%20of%20precision%5D%5D)
 
-### Rasterization
+### 7.Rasterization
 
 * [Homogeneous Division after Clip Space](https://stackoverflow.com/questions/41085117/why-does-gl-divide-gl-position-by-w-for-you-rather-than-letting-you-do-it-your)
 
@@ -110,13 +114,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [A Trip Through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/06/a-trip-through-the-graphics-pipeline-2011-part-6/)
 
-### Tessellation
-
-* [Tessellation Modes Quick Reference](http://reedbeta.com/blog/tess-quick-ref/)
-
-* [CDLOD Terrain](https://github.com/fstrugar/CDLOD)
-
-### APIs
+### 8.APIs
 
 * [Mapping between HLSL and GLSL](https://anteru.net/blog/2016/mapping-between-hlsl-and-glsl/index.html)
 
