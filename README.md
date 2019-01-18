@@ -130,6 +130,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [Windows 10 adds a border around a window](https://stackoverflow.com/questions/34139450/getwindowrect-returns-a-size-including-invisible-borders)
 
+* [Direct3D 11 Debug API Tricks](https://seanmiddleditch.com/direct3d-11-debug-api-tricks/)
+
 ---
 
 ## II.Blogs and Websites
