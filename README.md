@@ -26,7 +26,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [Cache Coherency](https://fgiesen.wordpress.com/2014/07/07/cache-coherency/)
 
-* [Asynchronous Timewarp](https://developer.oculus.com/blog/asynchronous-timewarp-on-oculus-rift/)
+* [Asynchronous Timewarp on Oculus Rift](https://developer.oculus.com/blog/asynchronous-timewarp-on-oculus-rift/)
 
 * [WDDM](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/windows-vista-display-driver-model-design-guide) & [XDDM](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/windows-2000-display-driver-model-design-guide)
 
