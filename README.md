@@ -20,9 +20,9 @@ This is a personal deposit for computer graphics related resource.
 
 * [Simplex Noise](http://staffwww.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf)
 
-### 3.GPU & CPU
+### 3.Hardware
 
-* [VSync](https://computergraphics.stackexchange.com/questions/2166/how-does-vsync-affect-fps-exactly-when-not-at-full-vsync-fps)
+* [VSync](https://computergraphics.stackexchange.com/a/2296)
 
 * [Cache Coherency](https://fgiesen.wordpress.com/2014/07/07/cache-coherency/)
 
