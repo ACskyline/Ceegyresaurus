@@ -208,6 +208,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [Physically Based Rendering: From Theory To Implementation Third Edition](http://www.pbr-book.org/)
 
+* [Linux Device Drivers Third Edition](https://lwn.net/Kernel/LDD3/)
+
 ### 3D Models
 
 * http://casual-effects.com/data/
