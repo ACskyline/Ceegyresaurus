@@ -238,6 +238,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [D3D SV_Position.w is w while gl_FragCoord.w is 1/w.](https://www.gamedev.net/forums/topic/698741-w-component-of-sv_positiongl_fragcoord/?tab=comments#comment-5397351)
 
+* [D3D12 unnamed command queue being released while still in use by the GPU](https://www.gamedev.net/forums/topic/700769-d3d12-unnamed-command-queue-being-final-released-while-still-in-use-by-the-gpu/?tab=comments#comment-5399076)
+
 ### C & C++
 
 * [Character literals are treated as int in C whereas char in C++.](https://www.geeksforgeeks.org/g-fact-54/)
