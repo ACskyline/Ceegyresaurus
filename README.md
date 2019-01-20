@@ -202,7 +202,7 @@ This is a personal deposit for computer graphics related resource.
 
 ## III.Assets
 
-### Free Books
+### Books
 
 * http://www.realtimerendering.com/books.html
 
@@ -213,6 +213,10 @@ This is a personal deposit for computer graphics related resource.
 * [Linux Device Drivers Third Edition](https://lwn.net/Kernel/LDD3/)
 
 * [Ray Tracing in One Weekend](http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf)
+
+* [Ray Tracing: The Next Week](http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20The%20Next%20Week.pdf)
+
+* [Ray Tracing: The Rest of Your Life](http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf)
 
 ### 3D Models
 
