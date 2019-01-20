@@ -204,11 +204,15 @@ This is a personal deposit for computer graphics related resource.
 
 ### Free Books
 
+* http://www.realtimerendering.com/books.html
+
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html
 
 * [Physically Based Rendering: From Theory To Implementation Third Edition](http://www.pbr-book.org/)
 
 * [Linux Device Drivers Third Edition](https://lwn.net/Kernel/LDD3/)
+
+* [Ray Tracing in One Weekend](http://www.realtimerendering.com/raytracing/Ray%20Tracing%20in%20a%20Weekend.pdf)
 
 ### 3D Models
 
