@@ -24,6 +24,12 @@ This is a personal deposit for computer graphics related resource.
 
 * [DXGI Flip Model & BlkBlt Model](https://docs.microsoft.com/en-us/windows/desktop/direct3ddxgi/dxgi-flip-model)
 
+* [For best performance, use DXGI flip model](https://blogs.msdn.microsoft.com/directx/2018/04/09/dxgi-flip-model/)
+
+* [Sample Application for Direct3D 12 Flip Model Swap Chains](https://software.intel.com/en-us/articles/sample-application-for-direct3d-12-flip-model-swap-chains)
+
+* [D3D12 Fence and Present with Vsync](https://www.gamedev.net/forums/topic/700805-d3d12-fence-and-present/)
+
 * [VSync](https://computergraphics.stackexchange.com/a/2296)
 
 * [Cache Coherency](https://fgiesen.wordpress.com/2014/07/07/cache-coherency/)
@@ -201,6 +207,8 @@ This is a personal deposit for computer graphics related resource.
 * http://kesen.realtimerendering.com
 
 * http://advances.realtimerendering.com/
+
+* http://www.loirak.com/
 
 ---
 
