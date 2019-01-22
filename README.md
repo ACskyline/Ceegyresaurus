@@ -40,6 +40,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [The Jacobi and Gauss-Seidel Iterative Methods](https://www3.nd.edu/~zxu2/acms40390F12/Lec-7.3.pdf)
 
+* [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html#IntegerAbs)
+
 ### 5.Rendering
 
 #### Shadow Mapping
