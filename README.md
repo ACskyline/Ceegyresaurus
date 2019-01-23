@@ -6,11 +6,15 @@ This is a personal deposit for computer graphics related resource.
 
 ## I.Topics
 
-### 1.Textures
+### 1.Textures, Materials and Colors
 
 * [DXT and BC Compressions](http://reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
 
 * [D3D11 Texture Format and Feature Support](https://docs.microsoft.com/en-us/windows/desktop/direct3ddxgi/format-support-for-direct3d-11-0-feature-level-hardware)
+
+* [A Multiple-Scattering Microfacet Model for Real-Time Image Based Lighting](http://www.jcgt.org/published/0008/01/03/)
+
+* [Color Grading with Look-up Textures](http://halisavakis.com/my-take-on-shaders-color-grading-with-look-up-textures-lut/)
 
 ### 2.Procedural Graphics
 
@@ -22,6 +26,8 @@ This is a personal deposit for computer graphics related resource.
 
 ### 3.Hardware
 
+#### GPU
+
 * [DXGI Flip Model & BlkBlt Model](https://docs.microsoft.com/en-us/windows/desktop/direct3ddxgi/dxgi-flip-model)
 
 * [For best performance, use DXGI flip model](https://blogs.msdn.microsoft.com/directx/2018/04/09/dxgi-flip-model/)
@@ -32,11 +38,21 @@ This is a personal deposit for computer graphics related resource.
 
 * [VSync](https://computergraphics.stackexchange.com/a/2296)
 
-* [Cache Coherency](https://fgiesen.wordpress.com/2014/07/07/cache-coherency/)
+* [Homogeneous Division after Clip Space](https://stackoverflow.com/questions/41085117/why-does-gl-divide-gl-position-by-w-for-you-rather-than-letting-you-do-it-your)
+
+* [Reversed Z Buffer](https://developer.nvidia.com/content/depth-precision-visualized)
+
+* [A Trip Through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/06/a-trip-through-the-graphics-pipeline-2011-part-6/)
+
+#### DISPLAY
 
 * [Asynchronous Timewarp on Oculus Rift](https://developer.oculus.com/blog/asynchronous-timewarp-on-oculus-rift/)
 
 * [WDDM](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/windows-vista-display-driver-model-design-guide) & [XDDM](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/windows-2000-display-driver-model-design-guide)
+
+#### CPU
+
+* [Cache Coherency](https://fgiesen.wordpress.com/2014/07/07/cache-coherency/)
 
 ### 4.Math & Physics
 
@@ -47,6 +63,10 @@ This is a personal deposit for computer graphics related resource.
 * [The Jacobi and Gauss-Seidel Iterative Methods](https://www3.nd.edu/~zxu2/acms40390F12/Lec-7.3.pdf)
 
 * [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html#IntegerAbs)
+
+* [An Introduction to Gradient Descent](https://www.alanzucconi.com/2017/04/10/gradient-descent/)
+
+* [An Alternative to Normal-Matrix](https://lxjk.github.io/2017/10/01/Stop-Using-Normal-Matrix.html)
 
 ### 5.Rendering
 
@@ -65,6 +85,8 @@ This is a personal deposit for computer graphics related resource.
 * [FXAA](https://developer.download.nvidia.com/assets/gamedev/files/sdk/11/FXAA_WhitePaper.pdf)
 
 * [Deferred MSAA](https://docs.nvidia.com/gameworks/content/gameworkslibrary/graphicssamples/d3d_samples/antialiaseddeferredrendering.htm)
+
+* [Gradient Estimation for Real-Time Adaptive Temporal Filtering](https://cg.ivd.kit.edu/atf.php)
 
 #### Volumetric Rendering
 
@@ -114,15 +136,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [A Matter of Precision](http://tomforsyth1000.github.io/blog.wiki.html#%5B%5BA%20matter%20of%20precision%5D%5D)
 
-### 7.Rasterization
-
-* [Homogeneous Division after Clip Space](https://stackoverflow.com/questions/41085117/why-does-gl-divide-gl-position-by-w-for-you-rather-than-letting-you-do-it-your)
-
-* [Reversed Z Buffer](https://developer.nvidia.com/content/depth-precision-visualized)
-
-* [A Trip Through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/06/a-trip-through-the-graphics-pipeline-2011-part-6/)
-
-### 8.APIs
+### 7.APIs
 
 * [Mapping between HLSL and GLSL](https://anteru.net/blog/2016/mapping-between-hlsl-and-glsl/index.html)
 
@@ -145,6 +159,10 @@ This is a personal deposit for computer graphics related resource.
 ---
 
 ## II.Blogs and Websites
+
+* http://www.realtimerendering.com/resources/GraphicsGems/
+
+* http://www.jcgt.org
 
 * https://www.jendrikillner.com/post/
 
@@ -178,9 +196,13 @@ This is a personal deposit for computer graphics related resource.
 
 * https://blogs.msdn.microsoft.com/shawnhar/
 
+* https://www.stevestreeting.com
+
 * https://prideout.net/blog/old/blog.html
 
 * https://prideout.net/
+
+* http://www.realtimerendering.com/blog/
 
 * http://casual-effects.com/#blog
 
@@ -206,13 +228,25 @@ This is a personal deposit for computer graphics related resource.
 
 * http://kesen.realtimerendering.com
 
+* https://openproblems.realtimerendering.com
+
 * http://advances.realtimerendering.com/
 
 * http://www.loirak.com/
 
+* https://lxjk.github.io/#blog
+
 ---
 
-## III.Assets
+## III.Projects
+
+* [Q2VKPT](http://brechpunkt.de/q2vkpt/?fbclid=IwAR2YPbzumyCID9uaikfpFSupAIYyveW_rL-uYswZ5b-X8GNP4FA_5KccTWo#main)
+
+* [Filament](https://google.github.io/filament/Filament.md.html)
+
+---
+
+## IV.Assets
 
 ### Books
 
@@ -234,13 +268,15 @@ This is a personal deposit for computer graphics related resource.
 
 * http://casual-effects.com/data/
 
+* http://virtualmathmuseum.org/index.html
+
 ### Tools
 
 * [UIforETW](https://randomascii.wordpress.com/2015/09/24/etw-central/)
 
 ---
 
-## IV.Notes
+## V.Notes
 
 ### Rendering
 
