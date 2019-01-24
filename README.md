@@ -192,6 +192,8 @@ This is a personal deposit for computer graphics related resource.
 
 * https://blog.demofox.org/
 
+* http://www.elbeno.com/blog/
+
 * http://ericniebler.com/
 
 * http://aras-p.info/
