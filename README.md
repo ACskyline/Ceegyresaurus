@@ -192,6 +192,8 @@ This is a personal deposit for computer graphics related resource.
 
 * https://blog.demofox.org/
 
+* http://aras-p.info/
+
 * http://alextardif.com/index.html
 
 * https://blogs.msdn.microsoft.com/shawnhar/
