@@ -196,6 +196,8 @@ This is a personal deposit for computer graphics related resource.
 
 * http://aras-p.info/
 
+* https://zeuxcg.org/
+
 * http://alextardif.com/index.html
 
 * https://blogs.msdn.microsoft.com/shawnhar/
