@@ -4,7 +4,95 @@ This is a personal deposit for computer graphics related resource.
 
 ---
 
-## I.Topics
+## I.Blogs and Websites
+
+* http://www.realtimerendering.com/resources/GraphicsGems/
+
+* http://www.jcgt.org
+
+* https://www.jendrikillner.com/post/
+
+* https://pharr.org/matt/blog/
+
+* http://erich.realtimerendering.com
+
+* https://www.iquilezles.org
+
+* https://herbsutter.com
+
+* http://reedbeta.com
+
+* https://bartwronski.com/
+
+* http://fabiensanglard.net
+
+* http://madebyevan.com/
+
+* https://mynameismjp.wordpress.com
+
+* http://eelpi.gotdns.org/blog.wiki.html
+
+* https://randomascii.wordpress.com/
+
+* http://c0de517e.blogspot.com/
+
+* https://blog.demofox.org/
+
+* http://www.elbeno.com/blog/
+
+* http://ericniebler.com/
+
+* http://aras-p.info/
+
+* https://zeuxcg.org/
+
+* http://alextardif.com/index.html
+
+* https://blogs.msdn.microsoft.com/shawnhar/
+
+* https://www.stevestreeting.com
+
+* https://prideout.net/blog/old/blog.html
+
+* https://prideout.net/
+
+* http://www.realtimerendering.com/blog/
+
+* http://casual-effects.com/#blog
+
+* http://taichi.graphics/
+
+* http://www.ludicon.com/castano/blog
+
+* http://efficientshading.com
+
+* https://raytracey.blogspot.com/
+
+* https://caseymuratori.com
+
+* http://www.adriancourreges.com
+
+* http://jpgrenier.org/index.html
+
+* http://lousodrome.net/blog/light
+
+* https://www.alanzucconi.com/tutorials/
+
+* http://humus.name/index.php?page=News
+
+* http://kesen.realtimerendering.com
+
+* https://openproblems.realtimerendering.com
+
+* http://advances.realtimerendering.com/
+
+* http://www.loirak.com/
+
+* https://lxjk.github.io/#blog
+
+---
+
+## II.Topics
 
 ### 1.Textures, Materials and Colors
 
@@ -158,94 +246,6 @@ This is a personal deposit for computer graphics related resource.
 
 ---
 
-## II.Blogs and Websites
-
-* http://www.realtimerendering.com/resources/GraphicsGems/
-
-* http://www.jcgt.org
-
-* https://www.jendrikillner.com/post/
-
-* https://pharr.org/matt/blog/
-
-* http://erich.realtimerendering.com
-
-* https://www.iquilezles.org
-
-* https://herbsutter.com
-
-* http://reedbeta.com
-
-* https://bartwronski.com/
-
-* http://fabiensanglard.net
-
-* http://madebyevan.com/
-
-* https://mynameismjp.wordpress.com
-
-* http://eelpi.gotdns.org/blog.wiki.html
-
-* https://randomascii.wordpress.com/
-
-* http://c0de517e.blogspot.com/
-
-* https://blog.demofox.org/
-
-* http://www.elbeno.com/blog/
-
-* http://ericniebler.com/
-
-* http://aras-p.info/
-
-* https://zeuxcg.org/
-
-* http://alextardif.com/index.html
-
-* https://blogs.msdn.microsoft.com/shawnhar/
-
-* https://www.stevestreeting.com
-
-* https://prideout.net/blog/old/blog.html
-
-* https://prideout.net/
-
-* http://www.realtimerendering.com/blog/
-
-* http://casual-effects.com/#blog
-
-* http://taichi.graphics/
-
-* http://www.ludicon.com/castano/blog
-
-* http://efficientshading.com
-
-* https://raytracey.blogspot.com/
-
-* https://caseymuratori.com
-
-* http://www.adriancourreges.com
-
-* http://jpgrenier.org/index.html
-
-* http://lousodrome.net/blog/light
-
-* https://www.alanzucconi.com/tutorials/
-
-* http://humus.name/index.php?page=News
-
-* http://kesen.realtimerendering.com
-
-* https://openproblems.realtimerendering.com
-
-* http://advances.realtimerendering.com/
-
-* http://www.loirak.com/
-
-* https://lxjk.github.io/#blog
-
----
-
 ## III.Projects
 
 * [Q2VKPT](http://brechpunkt.de/q2vkpt/?fbclid=IwAR2YPbzumyCID9uaikfpFSupAIYyveW_rL-uYswZ5b-X8GNP4FA_5KccTWo#main)
@@ -309,6 +309,8 @@ This is a personal deposit for computer graphics related resource.
 * [D3D9 specify back buffer counts](https://docs.microsoft.com/en-us/windows/desktop/direct3d9/d3dpresent-parameters) while [D3D11 specify buffer counts](https://docs.microsoft.com/en-us/windows/desktop/api/dxgi/ns-dxgi-dxgi_swap_chain_desc)
 
 ### C & C++
+
+* [Brainfuck is the name of a real programming language](https://en.wikipedia.org/wiki/Brainfuck)
 
 * [Character literals are treated as int in C whereas char in C++.](https://www.geeksforgeeks.org/g-fact-54/)
 
