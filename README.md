@@ -18,6 +18,8 @@ This is a personal deposit for computer graphics related resource.
 
 * https://www.iquilezles.org
 
+* http://realtimecollisiondetection.net/blog/
+
 * https://herbsutter.com
 
 * http://reedbeta.com
@@ -89,6 +91,8 @@ This is a personal deposit for computer graphics related resource.
 * http://www.loirak.com/
 
 * https://lxjk.github.io/#blog
+
+* http://www.gijskaerts.com/wordpress/
 
 ---
 
@@ -275,6 +279,8 @@ This is a personal deposit for computer graphics related resource.
 ### 3D Models
 
 * http://casual-effects.com/data/
+
+* https://sketchfab.com/britishmuseum
 
 * http://virtualmathmuseum.org/index.html
 
