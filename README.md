@@ -10,6 +10,8 @@ This is a personal deposit for computer graphics related resource.
 
 * http://www.jcgt.org
 
+* http://www.interactive-graphics.de/
+
 * https://www.jendrikillner.com/post/
 
 * https://pharr.org/matt/blog/
