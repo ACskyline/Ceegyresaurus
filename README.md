@@ -12,6 +12,12 @@ This is a personal deposit for computer graphics related resource.
 
 * http://www.interactive-graphics.de/
 
+* http://realtimecollisiondetection.net/blog/
+
+* http://www.realtimerendering.com/blog/
+
+* http://casual-effects.com/#blog
+
 * https://www.jendrikillner.com/post/
 
 * https://pharr.org/matt/blog/
@@ -19,8 +25,6 @@ This is a personal deposit for computer graphics related resource.
 * http://erich.realtimerendering.com
 
 * https://www.iquilezles.org
-
-* http://realtimecollisiondetection.net/blog/
 
 * https://herbsutter.com
 
@@ -60,9 +64,7 @@ This is a personal deposit for computer graphics related resource.
 
 * https://prideout.net/
 
-* http://www.realtimerendering.com/blog/
-
-* http://casual-effects.com/#blog
+* http://www.gijskaerts.com/wordpress/
 
 * http://taichi.graphics/
 
