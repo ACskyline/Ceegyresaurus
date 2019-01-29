@@ -234,6 +234,8 @@ This is a personal deposit for computer graphics related resource.
 
 ### 7.APIs
 
+* [Introduction to Resource Binding in Microsoft DirectX 12](https://software.intel.com/en-us/articles/introduction-to-resource-binding-in-microsoft-directx-12)
+
 * [Mapping between HLSL and GLSL](https://anteru.net/blog/2016/mapping-between-hlsl-and-glsl/index.html)
 
 * [Discriptor Binding in DX12 and Vulkan](https://www.gamedev.net/forums/topic/678860-descriptor-binding-dx12-and-vulkan/)
