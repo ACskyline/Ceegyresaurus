@@ -166,6 +166,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [An Alternative to Normal-Matrix](https://lxjk.github.io/2017/10/01/Stop-Using-Normal-Matrix.html)
 
+* [Quantizing Floats](https://zeuxcg.org/2010/12/14/quantizing-floats/)
+
 ### 5.Rendering
 
 #### Shadow Mapping
