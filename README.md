@@ -136,10 +136,6 @@ This is a personal deposit for computer graphics related resource.
 
 * [VSync](https://computergraphics.stackexchange.com/a/2296)
 
-* [Homogeneous Division after Clip Space](https://stackoverflow.com/questions/41085117/why-does-gl-divide-gl-position-by-w-for-you-rather-than-letting-you-do-it-your)
-
-* [Reversed Z Buffer](https://developer.nvidia.com/content/depth-precision-visualized)
-
 * [A Trip Through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/06/a-trip-through-the-graphics-pipeline-2011-part-6/)
 
 #### DISPLAY
@@ -171,6 +167,14 @@ This is a personal deposit for computer graphics related resource.
 * [Quantizing Floats](https://zeuxcg.org/2010/12/14/quantizing-floats/)
 
 ### 5.Rendering
+
+#### Rasterizer
+
+* [Depth Precision Visualized](http://www.reedbeta.com/blog/depth-precision-visualized/)
+
+* [Homogeneous Division after Clip Space](https://stackoverflow.com/questions/41085117/why-does-gl-divide-gl-position-by-w-for-you-rather-than-letting-you-do-it-your)
+
+* [Reversed Z Buffer](https://developer.nvidia.com/content/depth-precision-visualized)
 
 #### Shadow Mapping
 
