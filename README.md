@@ -160,6 +160,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [The Jacobi and Gauss-Seidel Iterative Methods](https://www3.nd.edu/~zxu2/acms40390F12/Lec-7.3.pdf)
 
+* [The Gauss-Seidel and Jacobi Methods for Solving Linear Systems](https://erkaman.github.io/posts/jacobi_and_gauss_seidel.html)
+
 * [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html#IntegerAbs)
 
 * [An Introduction to Gradient Descent](https://www.alanzucconi.com/2017/04/10/gradient-descent/)
