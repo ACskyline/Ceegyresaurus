@@ -349,3 +349,7 @@ This is a personal deposit for computer graphics related resource.
 * [Virtual functions can be private in C++.](https://www.geeksforgeeks.org/can-virtual-functions-be-private-in-c/)
 
 * [C++ only allows static const integral members to be initialized inline before C++ 11.](https://stackoverflow.com/questions/225089/why-cant-we-initialize-members-inside-a-structure)
+
+### OS
+
+* [Interrupt signals generated in the terminal are delivered to the active process group, which includes both parent and children processes.](https://unix.stackexchange.com/a/176242)
