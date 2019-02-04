@@ -206,7 +206,9 @@ This is a personal deposit for computer graphics related resource.
 
 #### Misc.
 
-* [Spherical Harmonic Lighting](https://dickyjim.wordpress.com/2013/09/04/spherical-harmonics-for-beginners/)
+* [Spherical Gaussians](https://mynameismjp.wordpress.com/2016/10/09/sg-series-part-1-a-brief-and-incomplete-history-of-baked-lighting-representations/)
+
+* [Deferred Subsurface Scattering using Compute Shaders](https://www.derschmale.com/2014/06/02/deferred-subsurface-scattering-using-compute-shaders/)
 
 * [Light Probe](https://computergraphics.stackexchange.com/questions/4164/what-are-spherical-harmonics-light-probes)
 
