@@ -314,7 +314,7 @@ This is a personal deposit for computer graphics related resource.
 
 * [Parallel split shadow map is the academic name for cascaded shadow map.](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch10.html)
 
-* [Caustic photon map in photon mapper is not necessary when you use global photon map to approximate caustics. It is introduced because caustics usually require more photons to be accurate. If accuracy is needed then launching more photons and store the caustics in a separate map is a better approach. When doing this, global photon map should not store caustic photons anymore.](https://web.archive.org/web/20110607074737/http://www.cs.princeton.edu/courses/archive/fall02/cs526/papers/course43sig02.pdf)
+* [Caustic photon map in photon mapper is not necessary when you use global photon map to approximate caustics. It is introduced because caustics usually require more photons to be accurate. If accuracy is needed then emitting more photons and store the caustics in a separate map is a better approach. When doing this, global photon map should not store caustic photons anymore.](https://web.archive.org/web/20110607074737/http://www.cs.princeton.edu/courses/archive/fall02/cs526/papers/course43sig02.pdf)
 
 ### Direct3D & OpenGL
 
