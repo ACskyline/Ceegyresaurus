@@ -56,6 +56,8 @@ This is a personal deposit for computer graphics related resource.
 
 * http://alextardif.com/index.html
 
+* https://agraphicsguy.wordpress.com/
+
 * https://blogs.msdn.microsoft.com/shawnhar/
 
 * https://www.stevestreeting.com
