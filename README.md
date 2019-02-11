@@ -78,6 +78,8 @@ This is a personal deposit for computer graphics related resource.
 
 * https://caseymuratori.com
 
+* http://donw.io
+
 * http://www.adriancourreges.com
 
 * http://jpgrenier.org/index.html
@@ -101,6 +103,8 @@ This is a personal deposit for computer graphics related resource.
 * http://www.gijskaerts.com/wordpress/
 
 * http://turnoff.us/
+
+* https://wickedengine.net
 
 ---
 
@@ -207,6 +211,8 @@ This is a personal deposit for computer graphics related resource.
 * [Siggraph 2015 EA Volumetric Rendering](https://www.ea.com/frostbite/news/physically-based-unified-volumetric-rendering-in-frostbite)
 
 #### Misc.
+
+* [Parallax Occlusion Mapping](https://www.gamedev.net/articles/programming/graphics/a-closer-look-at-parallax-occlusion-mapping-r3262)
 
 * [Spherical Gaussians](https://mynameismjp.wordpress.com/2016/10/09/sg-series-part-1-a-brief-and-incomplete-history-of-baked-lighting-representations/)
 
