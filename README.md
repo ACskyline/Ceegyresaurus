@@ -16,6 +16,8 @@ This is a personal deposit for computer graphics related resource.
 
 * http://www.realtimerendering.com/blog/
 
+* http://www.cs.technion.ac.il/users/yechiel/c++-faq/index.html
+
 * http://casual-effects.com/#blog
 
 * https://www.jendrikillner.com/post/
