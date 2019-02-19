@@ -363,3 +363,5 @@ This is a personal deposit for computer graphics related resource.
 ### OS
 
 * [Interrupt signals generated in the terminal are delivered to the active process group, which includes both parent and children processes.](https://unix.stackexchange.com/a/176242)
+
+* [When using setpgid to separate child processes into different groups, calling setpgid in both parent and child processes is the best approach because it can avoid EPERM and EACCES error. EPERM can be caused by calling setpgid(pid, pgid) for group members (where pid is not equal to pgid) before calling setpgid(pid, pgid) for group leader (where pid is equal to pgid). EACCES can be caused by calling setpgid(pid, pgid) in parent process where the child process (either group member or leader) with pid has already called exec or its variants. To solve this, make sure to call setpgid in both parent and child processes.](https://linux.die.net/man/2/setpgid)
