@@ -276,6 +276,8 @@ This is a personal deposit for computer graphics related resource.
 
 * [Direct3D 11 Debug API Tricks](https://seanmiddleditch.com/direct3d-11-debug-api-tricks/)
 
+* [Performance of D3D12 and Vulkan](https://www.gamedev.net/forums/topic/701213-performance-of-d3d12-and-vulkan/?do=findComment&comment=5401226)
+
 ---
 
 ## III.Projects
