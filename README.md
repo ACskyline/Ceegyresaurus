@@ -364,7 +364,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [C++ only allows static const integral members to be initialized inline before C++ 11.](https://stackoverflow.com/questions/225089/why-cant-we-initialize-members-inside-a-structure)
 
-* [The size of an empty class is 1.](https://stackoverflow.com/questions/621616/c-what-is-the-size-of-an-object-of-an-empty-class)
+* [The size of an instance of an empty class is 1.](https://stackoverflow.com/questions/621616/c-what-is-the-size-of-an-object-of-an-empty-class)
 
 ### OS
 
