@@ -366,6 +366,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [The size of an instance of an empty class is 1.](https://stackoverflow.com/questions/621616/c-what-is-the-size-of-an-object-of-an-empty-class)
 
+* [Access specifiers are checked at compile time. At run time, only the function corresponding to the pointed object (the virtual function) is called and access specifier is not checked.](https://www.geeksforgeeks.org/what-happens-when-more-restrictive-access-is-given-in-a-derived-class-method-in-c/)
+
 ### OS
 
 * [Interrupt signals generated in the terminal are delivered to the active process group, which includes both parent and children processes.](https://unix.stackexchange.com/a/176242)
