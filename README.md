@@ -1,6 +1,6 @@
 # Ceegyresuarus
 
-This is a personal deposit for computer graphics related resource. IF THERE IS ANYTHING WRONG PLEASE TELL ME.
+This is a personal deposit for computer graphics related resource. IF THERE IS ANYTHING WRONG PLEASE LET ME KNOW.
 
 ---
 
