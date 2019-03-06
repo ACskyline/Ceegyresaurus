@@ -368,6 +368,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Access specifiers are checked at compile time. At run time, only the function corresponding to the pointed object (the virtual function) is called and access specifier is not checked.](https://www.geeksforgeeks.org/what-happens-when-more-restrictive-access-is-given-in-a-derived-class-method-in-c/)
 
+* [The sign of a char is implementation-defined.](https://stackoverflow.com/questions/17097537/why-is-char-signed-by-default-in-c/17097580)
+
 ### OS
 
 * [Interrupt signals generated in the terminal are delivered to the active process group, which includes both parent and children processes.](https://unix.stackexchange.com/a/176242)
