@@ -346,6 +346,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [D3D9 specify back buffer counts](https://docs.microsoft.com/en-us/windows/desktop/direct3d9/d3dpresent-parameters) while [D3D11 specify buffer counts](https://docs.microsoft.com/en-us/windows/desktop/api/dxgi/ns-dxgi-dxgi_swap_chain_desc)
 
+* [D3D11 has early z-test by default. It will be automatically used if the situations allow it.](https://stackoverflow.com/questions/17898738/early-z-test-depth-test-in-directx-11)
+
 ### C & C++
 
 * [Brainfuck is the name of a real programming language](https://en.wikipedia.org/wiki/Brainfuck)
