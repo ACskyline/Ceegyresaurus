@@ -232,6 +232,12 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [CDLOD Terrain](https://github.com/fstrugar/CDLOD)
 
+* [Wang Tiling](https://blog.demofox.org/2014/08/13/wang-tiling/)
+
+* [Approximating water reflection using terrain height maps](https://blog.uhawkvr.com/rendering/approximate-terrain-reflections/)
+
+* [Halftone Shading](https://www.ronja-tutorials.com/2019/03/02/halftone-shading.html)
+
 ### 6.Programming
 
 * [Memory Allocator](https://github.com/mtrebi/memory-allocators#build-instructions)
@@ -285,6 +291,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 * [Q2VKPT](http://brechpunkt.de/q2vkpt/?fbclid=IwAR2YPbzumyCID9uaikfpFSupAIYyveW_rL-uYswZ5b-X8GNP4FA_5KccTWo#main)
 
 * [Filament](https://google.github.io/filament/Filament.md.html)
+
+* [Xenia](https://github.com/xenia-project/xenia)
 
 ---
 
