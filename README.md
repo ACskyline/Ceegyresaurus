@@ -212,6 +212,10 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Siggraph 2015 EA Volumetric Rendering](https://www.ea.com/frostbite/news/physically-based-unified-volumetric-rendering-in-frostbite)
 
+#### Water
+
+* [Hitman Ocean Technology](https://eidosmontreal.com/en/news/hitman-ocean-technology#!)
+
 #### Misc.
 
 * [Parallax Occlusion Mapping](https://www.gamedev.net/articles/programming/graphics/a-closer-look-at-parallax-occlusion-mapping-r3262)
