@@ -298,6 +298,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Xenia](https://github.com/xenia-project/xenia)
 
+* [Quartz](https://github.com/Nadrin/Quartz)
+
 ---
 
 ## IV.Assets
@@ -305,6 +307,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 ### Books
 
 * http://www.realtimerendering.com/books.html
+
+* https://link.springer.com/book/10.1007/978-1-4842-4427-2
 
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html
 
