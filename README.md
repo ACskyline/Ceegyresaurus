@@ -388,6 +388,10 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [The sign of a char is implementation-defined.](https://stackoverflow.com/questions/17097537/why-is-char-signed-by-default-in-c/17097580)
 
+* [The parentheses for sizeof operator is not necessary when passing in an expression instead of the name of a type.](https://stackoverflow.com/a/18898832/7037639)
+
+* [The index and array can be switched and it still works.](https://stackoverflow.com/a/11503403/7037639)
+
 ### OS
 
 * [Interrupt signals generated in the terminal are delivered to the active process group, which includes both parent and children processes.](https://unix.stackexchange.com/a/176242)
