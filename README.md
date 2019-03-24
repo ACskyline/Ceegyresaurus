@@ -290,6 +290,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Performance of D3D12 and Vulkan](https://www.gamedev.net/forums/topic/701213-performance-of-d3d12-and-vulkan/?do=findComment&comment=5401226)
 
+* [Unified Resource State Management for Vulkan and Direct3D12](http://diligentgraphics.com/2018/12/09/resource-state-management/)
+
 ---
 
 ## III.Projects
