@@ -192,6 +192,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Sparse Shadow Tree](https://www.activision.com/cdn/research/SparseShadowTree.pdf)
 
+* [Hardware Depth Bias](https://docs.microsoft.com/en-us/windows/desktop/direct3d11/d3d10-graphics-programming-guide-output-merger-stage-depth-bias)
+
 #### Anti-Aliasing
 
 * [Subpixel Morphological Anti-Aliasing](http://www.iryoku.com/smaa/)
