@@ -310,9 +310,9 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * http://www.realtimerendering.com/books.html
 
-* https://link.springer.com/book/10.1007/978-1-4842-4427-2
-
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html
+
+* [Ray Tracing Gems](https://link.springer.com/book/10.1007/978-1-4842-4427-2)
 
 * [Physically Based Rendering: From Theory To Implementation Third Edition](http://www.pbr-book.org/)
 
