@@ -266,6 +266,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [A Matter of Precision](http://tomforsyth1000.github.io/blog.wiki.html#%5B%5BA%20matter%20of%20precision%5D%5D)
 
+* [Different ways to read file in C/C++](http://insanecoding.blogspot.com/2011/11/how-to-read-in-file-in-c.html)
+
 ### 7.APIs
 
 * [Introduction to Resource Binding in Microsoft DirectX 12](https://software.intel.com/en-us/articles/introduction-to-resource-binding-in-microsoft-directx-12)
