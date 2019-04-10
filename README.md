@@ -410,4 +410,4 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [When a handler function is invoked on a signal, that signal is automatically blocked (in addition to any other signals that are already in the process’s signal mask) during the time the handler is running.](https://www.gnu.org/software/libc/manual/html_node/Blocking-for-Handler.html#Blocking-for-Handler)
 
-* [When successful, swapcontext() does not return. (But we may return later (SET A PREVIOUSLY SAVED \*OUCP AS \*UCP), in case oucp is activated, in which case it looks like swapcontext() returns 0. (TECHNICALLY IT'S NOT A RETURN BECAUSE CONTEXT DOES CHANGE TO THE \*OUCP))](https://linux.die.net/man/3/swapcontext)
+* [When successful, swapcontext() does not return for the \*ucp. But we may get to the same context here again by setting a previously saved \*oucp as \*ucp using swapcontext or setcontext. In this case swapcontext() returns 0 for the \*oucp.](https://linux.die.net/man/3/swapcontext)
