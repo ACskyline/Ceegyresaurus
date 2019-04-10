@@ -268,7 +268,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Different ways to read file in C/C++](http://insanecoding.blogspot.com/2011/11/how-to-read-in-file-in-c.html)
 
-* [Access to private members. That's easy!](http://bloglitb.blogspot.com/2010/07/access-to-private-members-thats-easy.html?m=1) & [Access to private members: Safer nastiness.](http://bloglitb.blogspot.com/2011/12/access-to-private-members-safer.html?m=1)
+* [Access to private members. That's easy!](http://bloglitb.blogspot.com/2010/07/access-to-private-members-thats-easy.html?m=1) & [Access to private members: Safer nastiness](http://bloglitb.blogspot.com/2011/12/access-to-private-members-safer.html?m=1)
 
 ### 7.APIs
 
