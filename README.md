@@ -338,6 +338,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * http://virtualmathmuseum.org/index.html
 
+* http://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/index.html
+
 ### Tools
 
 * [UIforETW](https://randomascii.wordpress.com/2015/09/24/etw-central/)
