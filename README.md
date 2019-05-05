@@ -68,6 +68,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * https://prideout.net/
 
+* https://www.sagejenson.com
+
 * http://www.gijskaerts.com/wordpress/
 
 * http://taichi.graphics/
@@ -124,6 +126,10 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Unraveling The JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 
+* [A Beginner’s Guide to (CIE) Colorimetry](https://medium.com/hipster-color-science/a-beginners-guide-to-colorimetry-401f1830b65a)
+
+* [Useful Color Equations](http://www.brucelindbloom.com/index.html?Math.html)
+
 ### 2.Procedural Graphics
 
 * [Signed Distance Functions](https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm)
@@ -131,6 +137,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 * [Perlin Noise](http://flafla2.github.io/2014/08/09/perlinnoise.html)
 
 * [Simplex Noise](http://staffwww.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf)
+
+* [Wang Tiling](https://blog.demofox.org/2014/08/13/wang-tiling/)
 
 ### 3.Hardware
 
@@ -312,6 +320,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Quartz](https://github.com/Nadrin/Quartz)
 
+* [Appleased](https://github.com/appleseedhq/appleseed)
+
 ---
 
 ## IV.Assets
@@ -344,9 +354,11 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * http://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/index.html
 
-### Tools
+### Misc.
 
 * [UIforETW](https://randomascii.wordpress.com/2015/09/24/etw-central/)
+
+* [Disney Cloud Dataset](https://www.technology.disneyanimation.com/clouds)
 
 ---
 
