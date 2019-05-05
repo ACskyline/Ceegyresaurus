@@ -122,6 +122,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Color Grading with Look-up Textures](http://halisavakis.com/my-take-on-shaders-color-grading-with-look-up-textures-lut/)
 
+* [Unraveling The JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
+
 ### 2.Procedural Graphics
 
 * [Signed Distance Functions](https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm)
@@ -173,6 +175,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 * [An Alternative to Normal-Matrix](https://lxjk.github.io/2017/10/01/Stop-Using-Normal-Matrix.html)
 
 * [Quantizing Floats](https://zeuxcg.org/2010/12/14/quantizing-floats/)
+
+* [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html)
 
 ### 5.Rendering
 
