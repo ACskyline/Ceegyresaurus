@@ -230,6 +230,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Hitman Ocean Technology](https://eidosmontreal.com/en/news/hitman-ocean-technology#!)
 
+* [Physically Simulated River](https://www.jpgrenier.org/riverrenderer.html)
+
 #### Misc.
 
 * [Parallax Occlusion Mapping](https://www.gamedev.net/articles/programming/graphics/a-closer-look-at-parallax-occlusion-mapping-r3262)
