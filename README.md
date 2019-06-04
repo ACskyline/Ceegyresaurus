@@ -346,6 +346,10 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Ray Tracing: The Rest of Your Life](http://www.realtimerendering.com/raytracing/Ray%20Tracing_%20the%20Rest%20of%20Your%20Life.pdf)
 
+* [Game Engine Black Book DOOM](http://fabiensanglard.net/gebbdoom/)
+
+* [http://fabiensanglard.net/gebbwolf3d/](http://fabiensanglard.net/gebbwolf3d/)
+
 ### 3D Models
 
 * http://casual-effects.com/data/
