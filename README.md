@@ -348,7 +348,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Game Engine Black Book DOOM](http://fabiensanglard.net/gebbdoom/)
 
-* [http://fabiensanglard.net/gebbwolf3d/](http://fabiensanglard.net/gebbwolf3d/)
+* [Game Engine Black Book: Wolfenstein 3D, 2nd Edition](http://fabiensanglard.net/gebbwolf3d/)
 
 ### 3D Models
 
