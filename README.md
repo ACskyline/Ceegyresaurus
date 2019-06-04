@@ -324,6 +324,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Appleased](https://github.com/appleseedhq/appleseed)
 
+* [Godot](https://github.com/godotengine/godot)
+
 ---
 
 ## IV.Assets
