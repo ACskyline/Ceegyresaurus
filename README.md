@@ -392,9 +392,9 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [D3D SV_Position.w is w while gl_FragCoord.w is 1/w.](https://www.gamedev.net/forums/topic/698741-w-component-of-sv_positiongl_fragcoord/?tab=comments#comment-5397351)
 
-* [D3D12 unnamed command queue being released while still in use by the GPU](https://www.gamedev.net/forums/topic/700769-d3d12-unnamed-command-queue-being-final-released-while-still-in-use-by-the-gpu/?tab=comments#comment-5399076)
+* [D3D12 unnamed command queue being released while still in use by the GPU.](https://www.gamedev.net/forums/topic/700769-d3d12-unnamed-command-queue-being-final-released-while-still-in-use-by-the-gpu/?tab=comments#comment-5399076)
 
-* [D3D9 specify back buffer counts](https://docs.microsoft.com/en-us/windows/desktop/direct3d9/d3dpresent-parameters) while [D3D11 specify buffer counts](https://docs.microsoft.com/en-us/windows/desktop/api/dxgi/ns-dxgi-dxgi_swap_chain_desc)
+* [D3D9 specify back buffer counts](https://docs.microsoft.com/en-us/windows/desktop/direct3d9/d3dpresent-parameters) while [D3D11 specify buffer counts.](https://docs.microsoft.com/en-us/windows/desktop/api/dxgi/ns-dxgi-dxgi_swap_chain_desc)
 
 * [D3D11 has early z-test by default. It will be automatically used if the situations allow it.](https://stackoverflow.com/questions/17898738/early-z-test-depth-test-in-directx-11)
 
@@ -404,7 +404,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ### C & C++
 
-* [Brainfuck is the name of a real programming language](https://en.wikipedia.org/wiki/Brainfuck)
+* [Brainfuck is the name of a real programming language.](https://en.wikipedia.org/wiki/Brainfuck)
 
 * [Character literals are treated as int in C whereas char in C++.](https://www.geeksforgeeks.org/g-fact-54/)
 
