@@ -288,6 +288,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ### 7.APIs
 
+* [Vulkan input attachments and sub passes](https://www.saschawillems.de/blog/2018/07/19/vulkan-input-attachments-and-sub-passes/)
+
 * [Introduction to Resource Binding in Microsoft DirectX 12](https://software.intel.com/en-us/articles/introduction-to-resource-binding-in-microsoft-directx-12)
 
 * [Mapping between Direct3D, OpenGL and Vulkan](https://computergraphics.stackexchange.com/questions/4422/directx-openglvulkan-concepts-mapping-chart)
