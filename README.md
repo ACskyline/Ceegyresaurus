@@ -286,7 +286,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [A Brief Introduction to Rvalue References](https://www.artima.com/cppsource/rvalue.html)
 
-### 7.APIs
+### 7.Graphics APIs
 
 * [Vulkan input attachments and sub passes](https://www.saschawillems.de/blog/2018/07/19/vulkan-input-attachments-and-sub-passes/)
 
@@ -384,7 +384,9 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Caustic photon map in photon mapper is not necessary when you use global photon map to approximate caustics. It is introduced because caustics usually require more photons to be accurate. If accuracy is needed then emitting more photons and store the caustics in a separate map is a better approach. When doing this, global photon map should not store caustic photons anymore.](https://web.archive.org/web/20110607074737/http://www.cs.princeton.edu/courses/archive/fall02/cs526/papers/course43sig02.pdf)
 
-### Direct3D & Vulkan & OpenGL
+### Graphics APIs
+
+* [Transient attachments are framebuffer attachments that begin in an uninitialized or cleared state at the beginning of a renderpass, are written by one or more subpasses, consumed by one or more subpasses and are ultimately discarded at the end of the renderpass.](https://gpuopen.com/vulkan-renderpasses/)
 
 * [Vulkan NDC is right handed and it's y axis points down.](http://anki3d.org/vulkan-coordinate-system/) [A way to work around this is to negate the second element at the second row of the projection matrix.](https://github.com/Overv/VulkanTutorial/blob/master/code/23_texture_image.cpp#L1131)
 
