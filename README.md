@@ -444,6 +444,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Const function can only return const reference.](https://stackoverflow.com/questions/30146562/error-qualifiers-dropped-in-binding-reference-of-type-x-to-initializer-of-type)
 
+* [Calling a virtual function from a constructor or destructor dispatches the function as if the object's dynamic type were that currently being constructed or destroyed.](https://www.geeksforgeeks.org/calling-virtual-methods-in-constructordestructor-in-cpp/) [It is technically ok if the current hierarchy has the implementation but it is not a good practice.](https://stackoverflow.com/a/12094241/7037639)
+
 ### OS
 
 * [Interrupt signals generated in the terminal are delivered to the active process group, which includes both parent and children processes.](https://unix.stackexchange.com/a/176242)
