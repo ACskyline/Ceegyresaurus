@@ -386,6 +386,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ### Graphics APIs
 
+* [Lazily allocated memory is only allowed to be bound to a VkImage whose usage flags include VK_IMAGE_USAGE_TRANSIENT_ATTACHMENT_BIT.](https://vulkan.lunarg.com/doc/view/1.0.33.0/linux/vkspec.chunked/ch10s02.html#memory-device-lazy_allocation)
+
 * [Transient attachments are framebuffer attachments that begin in an uninitialized or cleared state at the beginning of a renderpass, are written by one or more subpasses, consumed by one or more subpasses and are ultimately discarded at the end of the renderpass.](https://gpuopen.com/vulkan-renderpasses/)
 
 * [Vulkan NDC is right handed and it's y axis points down.](http://anki3d.org/vulkan-coordinate-system/) [A way to work around this is to negate the second element at the second row of the projection matrix.](https://github.com/Overv/VulkanTutorial/blob/master/code/23_texture_image.cpp#L1131)
