@@ -186,6 +186,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html)
 
+* [Computing Tangent Space Basis Vectors for an Arbitrary Mesh (Lengyel’s Method)](http://www.terathon.com/code/tangent.html)
+
 ### 5.Rendering
 
 #### Rasterizer
