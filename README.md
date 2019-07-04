@@ -388,6 +388,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ### Graphics APIs
 
+* [VK_DESCRIPTOR_BINDING_PARTIALLY_BOUND_BIT_EXT](https://www.khronos.org/registry/vulkan/specs/1.1-extensions/man/html/VkDescriptorBindingFlagBitsEXT.html) [can be used to allow bindings to not contain valid descriptors if they are not dynamically used.](https://www.gamedev.net/forums/topic/703087-vulkan-sampler-array/?tab=comments#comment-5409450)
+
 * [Lazily allocated memory is only allowed to be bound to a VkImage whose usage flags include VK_IMAGE_USAGE_TRANSIENT_ATTACHMENT_BIT.](https://vulkan.lunarg.com/doc/view/1.0.33.0/linux/vkspec.chunked/ch10s02.html#memory-device-lazy_allocation)
 
 * [Transient attachments are framebuffer attachments that begin in an uninitialized or cleared state at the beginning of a renderpass, are written by one or more subpasses, consumed by one or more subpasses and are ultimately discarded at the end of the renderpass.](https://gpuopen.com/vulkan-renderpasses/)
