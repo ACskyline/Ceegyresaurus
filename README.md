@@ -446,7 +446,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [The index and array can be switched and it still works.](https://stackoverflow.com/a/11503403/7037639)
 
-* [Const function can only return const reference.](https://stackoverflow.com/questions/30146562/error-qualifiers-dropped-in-binding-reference-of-type-x-to-initializer-of-type)
+* [Const function can only return const reference.](https://stackoverflow.com/questions/30146562/error-qualifiers-dropped-in-binding-reference-of-type-x-to-initializer-of-type) [Const function can return non-const pointer, as long as it is not the address of a member varible (i.e. it is ok to return a copy of a pointer member variable).](https://stackoverflow.com/a/8788917/7037639)
 
 * [Calling a virtual function from a constructor or destructor dispatches the function as if the object's dynamic type were that currently being constructed or destroyed.](https://www.geeksforgeeks.org/calling-virtual-methods-in-constructordestructor-in-cpp/) [It is technically ok if the current hierarchy has the implementation but it is not a good practice.](https://stackoverflow.com/a/12094241/7037639)
 
