@@ -290,6 +290,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ### 7.Graphics APIs
 
+* [Vulkan Textures Unbound](http://roar11.com/2019/06/vulkan-textures-unbound/)
+
 * [Vulkan input attachments and sub passes](https://www.saschawillems.de/blog/2018/07/19/vulkan-input-attachments-and-sub-passes/)
 
 * [Introduction to Resource Binding in Microsoft DirectX 12](https://software.intel.com/en-us/articles/introduction-to-resource-binding-in-microsoft-directx-12)
