@@ -452,6 +452,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Calling a virtual function from a constructor or destructor dispatches the function as if the object's dynamic type were that currently being constructed or destroyed.](https://www.geeksforgeeks.org/calling-virtual-methods-in-constructordestructor-in-cpp/) [It is technically ok if the current hierarchy has the implementation but it is not a good practice.](https://stackoverflow.com/a/12094241/7037639)
 
+* [Integer size depends on actual implementation. The standard only specifies the minimum range. Pointer size on the other hand depends on the target machine.](https://stackoverflow.com/questions/11438794/is-the-size-of-c-int-2-bytes-or-4-bytes)
+
 ### OS
 
 * [Interrupt signals generated in the terminal are delivered to the active process group, which includes both parent and children processes.](https://unix.stackexchange.com/a/176242)
