@@ -6,8 +6,6 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ## I.Blogs and Websites
 
-* http://www.realtimerendering.com/resources/GraphicsGems/
-
 * http://www.jcgt.org
 
 * http://www.interactive-graphics.de/
@@ -361,6 +359,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 * [Game Engine Black Book DOOM](http://fabiensanglard.net/gebbdoom/)
 
 * [Game Engine Black Book: Wolfenstein 3D, 2nd Edition](http://fabiensanglard.net/gebbwolf3d/)
+
+* [Graphics Gems](http://www.realtimerendering.com/resources/GraphicsGems/)
 
 ### 3D Models
 
