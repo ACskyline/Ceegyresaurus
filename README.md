@@ -390,6 +390,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ### Graphics APIs
 
+* [When using an image view of a depth/stencil image to populate a descriptor set (e.g. for sampling in the shader, or for use as an input attachment), the aspectMask must only include one bit and selects whether the image view is used for depth reads (i.e. using a floating-point sampler or input attachment in the shader) or stencil reads (i.e. using an unsigned integer sampler or input attachment in the shader). When an image view of a depth/stencil image is used as a depth/stencil framebuffer attachment, the aspectMask is ignored and both depth and stencil image subresources are used.](https://www.khronos.org/registry/vulkan/specs/1.1-extensions/man/html/VkImageViewCreateInfo.html)
+
 * [VK_DESCRIPTOR_BINDING_PARTIALLY_BOUND_BIT_EXT](https://www.khronos.org/registry/vulkan/specs/1.1-extensions/man/html/VkDescriptorBindingFlagBitsEXT.html) [can be used to allow bindings to not contain valid descriptors if they are not dynamically used.](https://www.gamedev.net/forums/topic/703087-vulkan-sampler-array/?tab=comments#comment-5409450)
 
 * [Lazily allocated memory is only allowed to be bound to a VkImage whose usage flags include VK_IMAGE_USAGE_TRANSIENT_ATTACHMENT_BIT.](https://vulkan.lunarg.com/doc/view/1.0.33.0/linux/vkspec.chunked/ch10s02.html#memory-device-lazy_allocation)
