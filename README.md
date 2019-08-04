@@ -198,6 +198,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 #### Shadow Mapping
 
+* [GDC 2008 Soft Shadow Mapping](http://developer.download.nvidia.com/presentations/2008/GDC/GDC08_SoftShadowMapping.pdf)
+
 * [Variance Shadow Map](http://lousodrome.net/blog/light/2012/01/23/variance-shadow-maps/)
 
 * [Cascaded Shadow Map (Parallel Split Shadow Map)](https://developer.download.nvidia.com/SDK/10.5/opengl/src/cascaded_shadow_maps/doc/cascaded_shadow_maps.pdf)
