@@ -112,7 +112,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ## II.Topics
 
-### 1.Textures, Materials and Colors
+### 1.Texture, Material and Color
 
 * [DXT and BC Compressions](http://reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
 
@@ -154,7 +154,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [A Trip Through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/06/a-trip-through-the-graphics-pipeline-2011-part-6/)
 
-#### DISPLAY
+#### Display
 
 * [Asynchronous Timewarp on Oculus Rift](https://developer.oculus.com/blog/asynchronous-timewarp-on-oculus-rift/)
 
@@ -373,6 +373,10 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 * http://virtualmathmuseum.org/index.html
 
 * http://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/index.html
+
+### Textures
+
+* https://hdrihaven.com/hdris/
 
 ### Misc.
 
