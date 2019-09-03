@@ -112,7 +112,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ## II.Topics
 
-### 1.Texture, Material and Color
+### 1.Texture and Color
 
 * [DXT and BC Compressions](http://reedbeta.com/blog/understanding-bcn-texture-compression-formats/)
 
@@ -234,9 +234,23 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Physically Simulated River](https://www.jpgrenier.org/riverrenderer.html)
 
-#### Misc.
+* [Approximating water reflection using terrain height maps](https://blog.uhawkvr.com/rendering/approximate-terrain-reflections/)
+
+#### Terrain
+
+* [The Transvoxel Algorithm](http://transvoxel.org/)
+
+* [CDLOD Terrain](https://github.com/fstrugar/CDLOD)
+
+#### Visual Effects
+
+* [A Particle System Example](http://alextardif.com/Particles.html)
 
 * [Parallax Occlusion Mapping](https://www.gamedev.net/articles/programming/graphics/a-closer-look-at-parallax-occlusion-mapping-r3262)
+
+* [Screen Space Deferred Decal](https://bartwronski.com/2015/03/12/fixing-screen-space-deferred-decals/)
+
+#### Materials
 
 * [Spherical Gaussians](https://mynameismjp.wordpress.com/2016/10/09/sg-series-part-1-a-brief-and-incomplete-history-of-baked-lighting-representations/)
 
@@ -244,21 +258,11 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Light Probe](https://computergraphics.stackexchange.com/questions/4164/what-are-spherical-harmonics-light-probes)
 
-* [Screen Space Deferred Decal](https://bartwronski.com/2015/03/12/fixing-screen-space-deferred-decals/)
+#### Misc.
 
 * [Premultiplied-Alpha](https://blogs.msdn.microsoft.com/shawnhar/2009/11/06/premultiplied-alpha/)
 
-* [A Particle System Example](http://alextardif.com/Particles.html)
-
 * [Tessellation Modes Quick Reference](http://reedbeta.com/blog/tess-quick-ref/)
-
-* [CDLOD Terrain](https://github.com/fstrugar/CDLOD)
-
-* [Wang Tiling](https://blog.demofox.org/2014/08/13/wang-tiling/)
-
-* [Approximating water reflection using terrain height maps](https://blog.uhawkvr.com/rendering/approximate-terrain-reflections/)
-
-* [Halftone Shading](https://www.ronja-tutorials.com/2019/03/02/halftone-shading.html)
 
 ### 6.Programming
 
