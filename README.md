@@ -16,6 +16,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * http://www.cs.technion.ac.il/users/yechiel/c++-faq/index.html
 
+* https://blog.selfshadow.com/
+
 * http://casual-effects.com/#blog
 
 * https://www.jendrikillner.com/post/
@@ -122,11 +124,15 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Color Grading with Look-up Textures](http://halisavakis.com/my-take-on-shaders-color-grading-with-look-up-textures-lut/)
 
-* [Unraveling The JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
+* [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 
 * [A Beginner’s Guide to (CIE) Colorimetry](https://medium.com/hipster-color-science/a-beginners-guide-to-colorimetry-401f1830b65a)
 
 * [Useful Color Equations](http://www.brucelindbloom.com/index.html?Math.html)
+
+* [Sharper Mipmapping using Shader Based Supersampling](https://medium.com/@bgolus/sharper-mipmapping-using-shader-based-supersampling-ed7aadb47bec)
+
+* [Small float formats – R11G11B10F precision](https://bartwronski.com/2017/04/02/small-float-formats-r11g11b10f-precision/amp/?__twitter_impression=true)
 
 ### 2.Procedural Graphics
 
@@ -137,6 +143,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 * [Simplex Noise](http://staffwww.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf)
 
 * [Wang Tiling](https://blog.demofox.org/2014/08/13/wang-tiling/)
+
+* [The Unreasonable Effectiveness of Quasirandom Sequences](http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/)
 
 ### 3.Hardware
 
@@ -188,6 +196,10 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ### 5.Rendering
 
+#### Path Tracer & Ray Tracer
+
+* [Hyperion Publications](https://blog.yiningkarlli.com/2019/07/hyperion-papers.html)
+
 #### Rasterizer
 
 * [Depth Precision Visualized](http://www.reedbeta.com/blog/depth-precision-visualized/)
@@ -195,6 +207,10 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 * [Homogeneous Division after Clip Space](https://stackoverflow.com/questions/41085117/why-does-gl-divide-gl-position-by-w-for-you-rather-than-letting-you-do-it-your)
 
 * [Reversed Z Buffer](https://developer.nvidia.com/content/depth-precision-visualized)
+
+* [Triangle Visibility Buffer](https://diaryofagraphicsprogrammer.blogspot.com/2018/03/triangle-visibility-buffer.html?m=1)
+
+* [Alpha Compositing](https://ciechanow.ski/alpha-compositing/)
 
 #### Shadow Mapping
 
@@ -250,7 +266,9 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Screen Space Deferred Decal](https://bartwronski.com/2015/03/12/fixing-screen-space-deferred-decals/)
 
-#### Materials
+#### Materials & Lighting
+
+* [Dynamic Diffuse Global Illumination](https://morgan3d.github.io/articles/2019-04-01-ddgi/index.html)
 
 * [Spherical Gaussians](https://mynameismjp.wordpress.com/2016/10/09/sg-series-part-1-a-brief-and-incomplete-history-of-baked-lighting-representations/)
 
@@ -339,6 +357,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 * [Appleased](https://github.com/appleseedhq/appleseed)
 
 * [Godot](https://github.com/godotengine/godot)
+
+* [Basis Universal GPU Texture and Texture Video Compression Codec](https://github.com/binomialLLC/basis_universal)
 
 ---
 
