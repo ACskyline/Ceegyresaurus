@@ -342,6 +342,10 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Unified Resource State Management for Vulkan and Direct3D12](http://diligentgraphics.com/2018/12/09/resource-state-management/)
 
+* [Differences in memory management between Direct3D 12 and Vulkan](https://asawicki.info/articles/memory_management_vulkan_direct3d_12.php5)
+
+* [Debugging D3D12 driver crash](http://www.asawicki.info/news_1690_debugging_d3d12_driver_crash.html)
+
 ---
 
 ## III.Projects
@@ -401,6 +405,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 ### Textures
 
 * https://hdrihaven.com/hdris/
+
+* http://gl.ict.usc.edu/Data/HighResProbes/
 
 ### Misc.
 
