@@ -346,6 +346,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Debugging D3D12 driver crash](http://www.asawicki.info/news_1690_debugging_d3d12_driver_crash.html)
 
+* [DXGI Fullscreen Watchdog](https://docs.microsoft.com/en-us/windows/win32/direct3ddxgi/d3d10-graphics-programming-guide-dxgi#debugging-in-full-screen-mode)
+
 ---
 
 ## III.Projects
