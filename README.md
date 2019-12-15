@@ -6,6 +6,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ## I.Blogs and Websites
 
+* https://ishansharma.github.io/twitter-mentors/
+
 * http://www.jcgt.org
 
 * http://www.interactive-graphics.de/
