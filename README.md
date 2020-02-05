@@ -122,8 +122,6 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [D3D11 Texture Format and Feature Support](https://docs.microsoft.com/en-us/windows/desktop/direct3ddxgi/format-support-for-direct3d-11-0-feature-level-hardware)
 
-* [A Multiple-Scattering Microfacet Model for Real-Time Image Based Lighting](http://www.jcgt.org/published/0008/01/03/)
-
 * [Color Grading with Look-up Textures](http://halisavakis.com/my-take-on-shaders-color-grading-with-look-up-textures-lut/)
 
 * [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
@@ -264,9 +262,11 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 #### Visual Effects
 
-* [A Particle System Example](http://alextardif.com/Particles.html)
+* [Interior Mapping](https://forum.unity.com/threads/interior-mapping.424676/)
 
-* [Parallax Occlusion Mapping](https://www.gamedev.net/articles/programming/graphics/a-closer-look-at-parallax-occlusion-mapping-r3262)
+* [Parallax Mapping](https://learnopengl.com/Advanced-Lighting/Parallax-Mapping)
+
+* [A Particle System Example](http://alextardif.com/Particles.html)
 
 * [Screen Space Deferred Decal](https://bartwronski.com/2015/03/12/fixing-screen-space-deferred-decals/)
 
@@ -274,13 +274,15 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Image Based Lighting with Multiple Scattering](https://bruop.github.io/ibl/)
 
+* [A Multiple-Scattering Microfacet Model for Real-Time Image Based Lighting](http://www.jcgt.org/published/0008/01/03/)
+
 * [Dynamic Diffuse Global Illumination](https://morgan3d.github.io/articles/2019-04-01-ddgi/index.html)
 
 * [Spherical Gaussians](https://mynameismjp.wordpress.com/2016/10/09/sg-series-part-1-a-brief-and-incomplete-history-of-baked-lighting-representations/)
 
 * [Deferred Subsurface Scattering using Compute Shaders](https://www.derschmale.com/2014/06/02/deferred-subsurface-scattering-using-compute-shaders/)
 
-* [Light Probe](https://computergraphics.stackexchange.com/questions/4164/what-are-spherical-harmonics-light-probes)
+* [Spherical Harmonics Light Probes](https://computergraphics.stackexchange.com/questions/4164/what-are-spherical-harmonics-light-probes)
 
 #### Misc.
 
