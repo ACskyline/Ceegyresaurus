@@ -228,6 +228,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 #### Anti-Aliasing
 
+* [Anti-aliased Alpha Test: The Esoteric Alpha To Coverage](https://medium.com/@bgolus/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f)
+
 * [Subpixel Morphological Anti-Aliasing](http://www.iryoku.com/smaa/)
 
 * [FXAA](https://developer.download.nvidia.com/assets/gamedev/files/sdk/11/FXAA_WhitePaper.pdf)
