@@ -262,7 +262,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 #### Visual Effects
 
-* [Interior Mapping](https://forum.unity.com/threads/interior-mapping.424676/)
+* [Interior Mapping](http://interiormapping.oogst3d.net/)
 
 * [Parallax Mapping](https://learnopengl.com/Advanced-Lighting/Parallax-Mapping)
 
