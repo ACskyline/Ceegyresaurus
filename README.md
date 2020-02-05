@@ -272,6 +272,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 #### Materials & Lighting
 
+* [Image Based Lighting with Multiple Scattering](https://bruop.github.io/ibl/)
+
 * [Dynamic Diffuse Global Illumination](https://morgan3d.github.io/articles/2019-04-01-ddgi/index.html)
 
 * [Spherical Gaussians](https://mynameismjp.wordpress.com/2016/10/09/sg-series-part-1-a-brief-and-incomplete-history-of-baked-lighting-representations/)
