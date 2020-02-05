@@ -280,7 +280,9 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 #### Misc.
 
-* [Premultiplied-Alpha](https://blogs.msdn.microsoft.com/shawnhar/2009/11/06/premultiplied-alpha/)
+* [The Problem of Alpha Cut Outs](http://www.shawnhargreaves.com/blog/texture-filtering-alpha-cutouts.html)
+
+* [Premultiplied-Alpha](http://www.shawnhargreaves.com/blog/premultiplied-alpha.html)
 
 * [Tessellation Modes Quick Reference](http://reedbeta.com/blog/tess-quick-ref/)
 
