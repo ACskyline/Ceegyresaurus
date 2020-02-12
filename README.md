@@ -28,6 +28,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * http://erich.realtimerendering.com
 
+* http://www.eugenedeon.com/
+
 * https://www.iquilezles.org
 
 * https://herbsutter.com
