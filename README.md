@@ -344,8 +344,6 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Error codes that can be returned by a DXGI function](https://docs.microsoft.com/en-us/windows/desktop/direct3ddxgi/dxgi-error)
 
-* [Windows 10 adds a border around a window](https://stackoverflow.com/questions/34139450/getwindowrect-returns-a-size-including-invisible-borders)
-
 * [Direct3D 11 Debug API Tricks](https://seanmiddleditch.com/direct3d-11-debug-api-tricks/)
 
 * [Performance of D3D12 and Vulkan](https://www.gamedev.net/forums/topic/701213-performance-of-d3d12-and-vulkan/?do=findComment&comment=5401226)
@@ -437,6 +435,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 * [Caustic photon map in photon mapper is not necessary when you use global photon map to approximate caustics. It is introduced because caustics usually require more photons to be accurate. If accuracy is needed then emitting more photons and store the caustics in a separate map is a better approach. When doing this, global photon map should not store caustic photons anymore.](https://web.archive.org/web/20110607074737/http://www.cs.princeton.edu/courses/archive/fall02/cs526/papers/course43sig02.pdf)
 
 ### Graphics APIs
+
+* [Windows 10 adds a border around a window](https://stackoverflow.com/questions/34139450/getwindowrect-returns-a-size-including-invisible-borders)
 
 * [When using an image view of a depth/stencil image to populate a descriptor set (e.g. for sampling in the shader, or for use as an input attachment), the aspectMask must only include one bit and selects whether the image view is used for depth reads (i.e. using a floating-point sampler or input attachment in the shader) or stencil reads (i.e. using an unsigned integer sampler or input attachment in the shader). When an image view of a depth/stencil image is used as a depth/stencil framebuffer attachment, the aspectMask is ignored and both depth and stencil image subresources are used.](https://www.khronos.org/registry/vulkan/specs/1.1-extensions/man/html/VkImageViewCreateInfo.html)
 
