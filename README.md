@@ -274,6 +274,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 #### Materials & Lighting
 
+* [Energy Conserving Wrapped Diffuse](http://blog.stevemcauley.com/2011/12/03/energy-conserving-wrapped-diffuse/)
+
 * [Image Based Lighting with Multiple Scattering](https://bruop.github.io/ibl/)
 
 * [A Multiple-Scattering Microfacet Model for Real-Time Image Based Lighting](http://www.jcgt.org/published/0008/01/03/)
@@ -431,6 +433,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 ## V.Notes
 
 ### Rendering
+
+* [Wrapped diffuse model comes from Oren-Nayar model](https://developer.nvidia.com/gpugems/gpugems/part-iii-materials/chapter-16-real-time-approximations-subsurface-scattering)
 
 * [Parallel split shadow map is the academic name for cascaded shadow map.](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch10.html)
 
