@@ -442,7 +442,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ### Graphics APIs
 
-* [D3D12_FILTER is arranged in a bitwise pattern](https://docs.microsoft.com/en-us/windows/win32/api/d3d12/ns-d3d12-d3d12_sampler_desc)
+* [D3D12_FILTER is arranged in a bitwise pattern](https://docs.microsoft.com/en-us/windows/win32/api/d3d12/ne-d3d12-d3d12_filter#remarks)
 
 * [D3D12 Command lists are created in the recording state, to call ID3D12CommandAllocator::Reset(), close associated command lists first](https://docs.microsoft.com/en-us/windows/win32/api/d3d12/nf-d3d12-id3d12graphicscommandlist-close)
 
