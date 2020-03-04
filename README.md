@@ -30,6 +30,10 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * http://www.eugenedeon.com/
 
+* https://tomforsyth1000.github.io/blog.wiki.html
+
+* http://www.shawnhargreaves.com/blogindex.html
+
 * https://www.iquilezles.org
 
 * https://herbsutter.com
@@ -63,8 +67,6 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 * http://alextardif.com/index.html
 
 * https://agraphicsguy.wordpress.com/
-
-* https://blogs.msdn.microsoft.com/shawnhar/
 
 * https://www.stevestreeting.com
 
@@ -292,7 +294,13 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [The Problem of Alpha Cut Outs](http://www.shawnhargreaves.com/blog/texture-filtering-alpha-cutouts.html)
 
-* [Premultiplied-Alpha](http://www.shawnhargreaves.com/blog/premultiplied-alpha.html)
+* [Premultiplied Alpha by Shawn Hargreaves](http://www.shawnhargreaves.com/blog/premultiplied-alpha.html)
+
+* [Premultiplied Alpha and Image Composition by Shawn Hargreaves](http://www.shawnhargreaves.com/blog/premultiplied-alpha-and-image-composition.html)
+
+* [Premultiplied Alpha by Tom Forsyth](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BPremultiplied%20alpha%5D%5D)
+
+* [Premultiplied Alpha Part 2 by Tom Forsyth](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BPremultiplied%20alpha%20part%202%5D%5D)
 
 * [Tessellation Modes Quick Reference](http://reedbeta.com/blog/tess-quick-ref/)
 
