@@ -216,6 +216,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Alpha Compositing](https://ciechanow.ski/alpha-compositing/)
 
+* [Early Z (A trip through the Graphics Pipeline 2011, part 7)](https://fgiesen.wordpress.com/2011/07/08/a-trip-through-the-graphics-pipeline-2011-part-7/)
+
 #### Shadow Mapping
 
 * [GDC 2008 Soft Shadow Mapping](http://developer.download.nvidia.com/presentations/2008/GDC/GDC08_SoftShadowMapping.pdf)
