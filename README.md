@@ -30,6 +30,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * http://www.eugenedeon.com/
 
+* http://graphicrants.blogspot.com/
+
 * https://tomforsyth1000.github.io/blog.wiki.html
 
 * http://www.shawnhargreaves.com/blogindex.html
