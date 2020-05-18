@@ -436,6 +436,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ### Misc.
 
+* [DirectX-Specs](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#ShortTableOfContents)
+
 * [UIforETW](https://randomascii.wordpress.com/2015/09/24/etw-central/)
 
 * [Disney Cloud Dataset](https://www.technology.disneyanimation.com/clouds)
