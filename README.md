@@ -484,7 +484,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [D3D12_RESOURCE_STATE_NON_PIXEL_SHADER_RESOURCE is actually NON Pixel Shader SHADER RESOURCE. It's for VS, HS, DS and GS.](https://docs.microsoft.com/en-us/windows/desktop/api/d3d12/ne-d3d12-d3d12_resource_states)
 
-* [D3D SV_Position.w is w while gl_FragCoord.w is 1/w.](https://www.gamedev.net/forums/topic/698741-w-component-of-sv_positiongl_fragcoord/?tab=comments#comment-5397351)
+* [D3D SV_Position.w is w](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#16.3%20Pixel%20Shader%20Inputs) [while](https://www.gamedev.net/forums/topic/698741-w-component-of-sv_positiongl_fragcoord/?tab=comments#comment-5397351) [gl_FragCoord.w is 1/w.](https://www.khronos.org/registry/OpenGL-Refpages/gl4/html/gl_FragCoord.xhtml)
 
 * [D3D12 unnamed command queue being released while still in use by the GPU.](https://www.gamedev.net/forums/topic/700769-d3d12-unnamed-command-queue-being-final-released-while-still-in-use-by-the-gpu/?tab=comments#comment-5399076)
 
