@@ -432,7 +432,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * https://hdrihaven.com/hdris/
 
-* http://gl.ict.usc.edu/Data/HighResProbes/
+* https://vgl.ict.usc.edu/Data/HighResProbes/
 
 ### Misc.
 
