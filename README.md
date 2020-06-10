@@ -18,6 +18,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * http://www.cs.technion.ac.il/users/yechiel/c++-faq/index.html
 
+* https://stallman.org/
+
 * https://blog.selfshadow.com/
 
 * http://casual-effects.com/#blog
