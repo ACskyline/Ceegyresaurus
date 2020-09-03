@@ -222,17 +222,19 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Early Z (A trip through the Graphics Pipeline 2011, part 7)](https://fgiesen.wordpress.com/2011/07/08/a-trip-through-the-graphics-pipeline-2011-part-7/)
 
-#### Shadow Mapping
+#### Shadow Maps
 
 * [GDC 2008 Soft Shadow Mapping](http://developer.download.nvidia.com/presentations/2008/GDC/GDC08_SoftShadowMapping.pdf)
 
-* [Variance Shadow Map](http://lousodrome.net/blog/light/2012/01/23/variance-shadow-maps/)
+* [Variance Shadow Maps](http://lousodrome.net/blog/light/2012/01/23/variance-shadow-maps/)
 
-* [Cascaded Shadow Map (Parallel Split Shadow Map)](https://developer.download.nvidia.com/SDK/10.5/opengl/src/cascaded_shadow_maps/doc/cascaded_shadow_maps.pdf)
+* [Cascaded Shadow Maps (Parallel Split Shadow Maps)](https://developer.download.nvidia.com/SDK/10.5/opengl/src/cascaded_shadow_maps/doc/cascaded_shadow_maps.pdf)
 
 * [Sparse Shadow Tree](https://www.activision.com/cdn/research/SparseShadowTree.pdf)
 
 * [Hardware Depth Bias](https://docs.microsoft.com/en-us/windows/desktop/direct3d11/d3d10-graphics-programming-guide-output-merger-stage-depth-bias)
+
+* [Opacity Shadow Maps and Deep Opacity Maps](https://volumetricshadows.wordpress.com/2011/07/23/deep-opacity-maps-in-crystal-space/)
 
 #### Anti-Aliasing
 
