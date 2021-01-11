@@ -148,7 +148,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Perlin Noise](http://flafla2.github.io/2014/08/09/perlinnoise.html)
 
-* [Simplex Noise](http://staffwww.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf)
+* [Simplex Noise](http://staffwww.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf) ([source code](http://weber.itn.liu.se/~stegu/simplexnoise/SimplexNoise.java))
 
 * [Wang Tiling](https://blog.demofox.org/2014/08/13/wang-tiling/)
 
