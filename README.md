@@ -204,9 +204,11 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ### 5.Rendering
 
-#### Path Tracer & Ray Tracer
+#### Raytracing
 
 * [Hyperion Publications](https://blog.yiningkarlli.com/2019/07/hyperion-papers.html)
+
+* [LBVH Construction on GPU](https://developer.nvidia.com/blog/thinking-parallel-part-iii-tree-construction-gpu/)
 
 #### Rasterizer
 
