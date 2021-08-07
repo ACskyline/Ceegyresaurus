@@ -170,6 +170,10 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [A Trip Through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/06/a-trip-through-the-graphics-pipeline-2011-part-6/)
 
+* [Parsing  Direct3D Shader Bytecode](http://timjones.io/blog/archive/2015/09/02/parsing-direct3d-shader-bytecode)
+
+* [D3D12 Shader Cache APIs](https://microsoft.github.io/DirectX-Specs/d3d/ShaderCache.html)
+
 #### Display
 
 * [Asynchronous Timewarp on Oculus Rift](https://developer.oculus.com/blog/asynchronous-timewarp-on-oculus-rift/)
