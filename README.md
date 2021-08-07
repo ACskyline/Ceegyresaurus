@@ -174,6 +174,10 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [D3D12 Shader Cache APIs](https://microsoft.github.io/DirectX-Specs/d3d/ShaderCache.html)
 
+* [Two Shader Compilers of Direct3D 12](https://asawicki.info/news_1719_two_shader_compilers_of_direct3d_12)
+
+* [Using the DirectXShaderCompiler C++ API](https://simoncoenen.com/blog/programming/graphics/DxcCompiling)
+
 #### Display
 
 * [Asynchronous Timewarp on Oculus Rift](https://developer.oculus.com/blog/asynchronous-timewarp-on-oculus-rift/)
