@@ -16,6 +16,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * http://www.realtimerendering.com/blog/
 
+* https://gametechdev.github.io/projects 
+
 * http://www.cs.technion.ac.il/users/yechiel/c++-faq/index.html
 
 * https://stallman.org/
