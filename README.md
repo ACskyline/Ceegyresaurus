@@ -478,6 +478,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ### Graphics APIs
 
+* [D3D12 reading beyond the end of the bound array behavior](https://gamedev.net/forums/topic/677978-hlsl-reading-outside-array-safe/5288390/)
+
 * [Unlike short-circuit evaluation of &&, ||, and ?: in C, HLSL expressions never short-circuit an evaluation because they are vector operations. All sides of the expression are always evaluated.](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-operators#boolean-math-operators)
 
 * [D3D12_FILTER is arranged in a bitwise pattern](https://docs.microsoft.com/en-us/windows/win32/api/d3d12/ne-d3d12-d3d12_filter#remarks)
