@@ -524,6 +524,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ### C & C++
 
+* [Error C2102: '&' requires l-value](https://stackoverflow.com/a/65547916)
+
 * [Brainfuck is the name of a real programming language.](https://en.wikipedia.org/wiki/Brainfuck)
 
 * [Character literals are treated as int in C whereas char in C++.](https://www.geeksforgeeks.org/g-fact-54/)
