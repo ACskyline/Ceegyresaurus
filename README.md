@@ -476,6 +476,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Caustic photon map in photon mapper is not necessary when you use global photon map to approximate caustics. It is introduced because caustics usually require more photons to be accurate. If accuracy is needed then emitting more photons and store the caustics in a separate map is a better approach. When doing this, global photon map should not store caustic photons anymore.](https://web.archive.org/web/20110607074737/http://www.cs.princeton.edu/courses/archive/fall02/cs526/papers/course43sig02.pdf)
 
+* [Scaling an object (using SDF) is slightly more tricky since that compresses/dilates spaces, so we have to take that into account on the resulting distance estimation.](https://iquilezles.org/articles/distfunctions/)
+
 ### Graphics APIs
 
 * [D3D12 reading beyond the end of the bound array behavior](https://gamedev.net/forums/topic/677978-hlsl-reading-outside-array-safe/5288390/)
