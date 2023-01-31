@@ -480,6 +480,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ### Graphics APIs
 
+* Glsl [mod](https://registry.khronos.org/OpenGL-Refpages/gl4/html/mod.xhtml) is slightly different from hlsl [fmod](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-fmod)
+
 * [D3D12 reading beyond the end of the bound array behavior](https://gamedev.net/forums/topic/677978-hlsl-reading-outside-array-safe/5288390/)
 
 * [Unlike short-circuit evaluation of &&, ||, and ?: in C, HLSL expressions never short-circuit an evaluation because they are vector operations. All sides of the expression are always evaluated.](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-operators#boolean-math-operators)
