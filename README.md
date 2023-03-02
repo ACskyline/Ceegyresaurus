@@ -148,6 +148,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Signed Distance Functions](https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm)
 
+* [Sphere Marching Overstepping Issue](https://digitalfreepen.com/2017/06/21/consistent-distance-fields.html) and [Solutions](https://www.shadertoy.com/view/4dcBRN)
+
 * [Perlin Noise](http://flafla2.github.io/2014/08/09/perlinnoise.html)
 
 * [Simplex Noise](http://staffwww.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf) ([source code](http://weber.itn.liu.se/~stegu/simplexnoise/SimplexNoise.java))
