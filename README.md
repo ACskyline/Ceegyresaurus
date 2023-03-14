@@ -288,7 +288,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [CDLOD Terrain](https://github.com/fstrugar/CDLOD)
 
-* [Hex Tiling](https://github.com/mmikk/hextile-demo)
+* [Hex Tiling](https://jcgt.org/published/0011/03/05/)
 
 #### Visual Effects
 
