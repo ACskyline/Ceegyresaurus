@@ -288,6 +288,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [CDLOD Terrain](https://github.com/fstrugar/CDLOD)
 
+* [Hex Tiling](https://github.com/mmikk/hextile-demo)
+
 #### Visual Effects
 
 * [Interior Mapping](http://interiormapping.oogst3d.net/)
