@@ -196,6 +196,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ### 4.Math & Physics
 
+* [A Collection of Math and Physics Applets](https://www.falstad.com/mathphysics.html)
+
 * [GJK Algorithm](https://caseymuratori.com/blog_0003)
 
 * [Separate Axis Theorem](https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169)
