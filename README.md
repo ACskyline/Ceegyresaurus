@@ -18,7 +18,7 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * https://gametechdev.github.io/projects 
 
-* http://www.cs.technion.ac.il/users/yechiel/c++-faq/index.html
+* http://www.parashift.com/c++-faq-lite/
 
 * https://nhigham.com/blog/
 
