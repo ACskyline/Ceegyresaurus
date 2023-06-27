@@ -20,6 +20,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * http://www.cs.technion.ac.il/users/yechiel/c++-faq/index.html
 
+* https://nhigham.com/blog/
+
 * https://stallman.org/
 
 * https://blog.selfshadow.com/
@@ -217,6 +219,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 * [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html)
 
 * [Computing Tangent Space Basis Vectors for an Arbitrary Mesh (Lengyel’s Method)](http://www.terathon.com/code/tangent.html)
+
+* [Polar Decomposition and SVD](https://nhigham.com/2020/07/28/what-is-the-polar-decomposition/)
 
 ### 5.Rendering
 
