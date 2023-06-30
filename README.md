@@ -224,6 +224,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Derivative of log(det(X))](https://statisticaloddsandends.wordpress.com/2018/05/24/derivative-of-log-det-x/)
 
+* [Matrix Calculus](https://www.matrixcalculus.org/)
+
 ### 5.Rendering
 
 #### Raytracing
