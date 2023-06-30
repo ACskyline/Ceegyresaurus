@@ -222,6 +222,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Polar Decomposition and SVD](https://nhigham.com/2020/07/28/what-is-the-polar-decomposition/)
 
+* [Derivative of log(det(X))](https://statisticaloddsandends.wordpress.com/2018/05/24/derivative-of-log-det-x/)
+
 ### 5.Rendering
 
 #### Raytracing
