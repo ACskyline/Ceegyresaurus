@@ -492,7 +492,9 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Caustic photon map in photon mapper is not necessary when you use global photon map to approximate caustics. It is introduced because caustics usually require more photons to be accurate. If accuracy is needed then emitting more photons and store the caustics in a separate map is a better approach. When doing this, global photon map should not store caustic photons anymore.](https://web.archive.org/web/20110607074737/http://www.cs.princeton.edu/courses/archive/fall02/cs526/papers/course43sig02.pdf)
 
-* [Scaling an object (using SDF) is slightly more tricky since that compresses/dilates spaces, so we have to take that into account on the resulting distance estimation.](https://iquilezles.org/articles/distfunctions/)
+* [Scaling an object (using SDF) is slightly more tricky since that compresses/dilates spaces, so we have to take that into account on the resulting distance estimation. Still, it's not difficult to perform, although it only works with uniform scaling. Non uniform scaling is not possible (while still getting a correct SDF)](https://iquilezles.org/articles/distfunctions/)
+
+* [Setting unnecessary/redundant channels to an uniform value can help alleviate co-compression artifacts of BC1 or BC3 normal maps. If we assume 1=x*x+y*y+z*z, then we only need to store 2 channels. To achieve the best result, store 1 of the 2 channels in alpha, because alpha has more bits and is interpolated separately for BC3.](https://realtimecollisiondetection.net/blog/?p=28#more-28)
 
 ### Graphics APIs
 
