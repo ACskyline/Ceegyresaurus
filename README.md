@@ -226,6 +226,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Matrix Calculus](https://www.matrixcalculus.org/)
 
+* [Mpm Course](https://www.math.ucla.edu/~cffjiang/research/mpmcourse/mpmcourse.pdf)
+
 ### 5.Rendering
 
 #### Raytracing
