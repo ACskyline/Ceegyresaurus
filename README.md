@@ -110,6 +110,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * http://kesen.realtimerendering.com
 
+* https://blog.mousefingers.com
+
 * https://openproblems.realtimerendering.com
 
 * http://advances.realtimerendering.com/
