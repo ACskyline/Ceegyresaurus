@@ -268,6 +268,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 #### Anti-Aliasing
 
+* [MSAA Overview](https://mynameismjp.wordpress.com/2012/10/24/msaa-overview/)
+
 * [Anti-aliased Alpha Test: The Esoteric Alpha To Coverage](https://medium.com/@bgolus/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f)
 
 * [Subpixel Morphological Anti-Aliasing](http://www.iryoku.com/smaa/)
