@@ -188,6 +188,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Scalarization](https://flashypixels.wordpress.com/2018/11/10/intro-to-gpu-scalarization-part-1/)
 
+* [Occupancy Explained](https://gpuopen.com/learn/occupancy-explained/)
+
 #### Display
 
 * [Asynchronous Timewarp on Oculus Rift](https://developer.oculus.com/blog/asynchronous-timewarp-on-oculus-rift/)
