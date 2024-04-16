@@ -382,6 +382,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [A Brief Introduction to Rvalue References](https://www.artima.com/cppsource/rvalue.html)
 
+* [Parallel Prefix Sum (Scan) with CUDA](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda)
+
 ### 7.Graphics APIs
 
 * [Vulkan Textures Unbound](http://roar11.com/2019/06/vulkan-textures-unbound/)
