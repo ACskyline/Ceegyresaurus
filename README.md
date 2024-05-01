@@ -554,6 +554,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [Register space (shader space) in DX12 can be used as a way to separate uniform variables just like set in Vulkan does.](https://twitter.com/longbool/status/1137170662353788929)
 
+* [NonUniformResourceIndex](https://www.asawicki.info/news_1608_direct3d_12_-_watch_out_for_non-uniform_resource_index)
+
 ### C & C++
 
 * [Error C2102: '&' requires l-value](https://stackoverflow.com/a/65547916)
