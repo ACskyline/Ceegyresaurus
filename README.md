@@ -556,6 +556,10 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 * [NonUniformResourceIndex](https://www.asawicki.info/news_1608_direct3d_12_-_watch_out_for_non-uniform_resource_index)
 
+* [Untangling Direct3D 12 Memory Heap Types and Pools](https://asawicki.info/news_1755_untangling_direct3d_12_memory_heap_types_and_pools)
+
+* [ReBAR](https://gpuopen.com/learn/using-d3d12-heap-type-gpu-upload/)
+
 ### C & C++
 
 * [Error C2102: '&' requires l-value](https://stackoverflow.com/a/65547916)
