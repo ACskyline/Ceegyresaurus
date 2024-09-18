@@ -202,6 +202,8 @@ This is a personal deposit for computer graphics related resource. IF THERE IS A
 
 ### 4.Math & Physics
 
+* [Rotating a Single Vector Using a Quaternion](https://fgiesen.wordpress.com/2019/02/09/rotating-a-single-vector-using-a-quaternion/)
+
 * [A Collection of Math and Physics Applets](https://www.falstad.com/mathphysics.html)
 
 * [GJK Algorithm](https://caseymuratori.com/blog_0003)
