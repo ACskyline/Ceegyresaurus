@@ -556,9 +556,9 @@ This is a personal deposit for computer graphics related resource, please let me
 
 * [D3D9 specify back buffer counts](https://docs.microsoft.com/en-us/windows/desktop/direct3d9/d3dpresent-parameters) while [D3D11 specify buffer counts.](https://docs.microsoft.com/en-us/windows/desktop/api/dxgi/ns-dxgi-dxgi_swap_chain_desc)
 
-* [D3D11 has early z-test by default. It will be automatically used if the situations allow it. It's different from hierarchical z test or hi-z](https://stackoverflow.com/questions/17898738/early-z-test-depth-test-in-directx-11)
+* [D3D11 has early z-test by default. It will be automatically used if the situations allow it. It's different from hierarchical z test or hi-z.](https://stackoverflow.com/questions/17898738/early-z-test-depth-test-in-directx-11)
 
-* [Early Z will be disabled if you have discard in the pixel shader](https://www.khronos.org/opengl/wiki/Early_Fragment_Test#Limitations)[ or output depth from pixel shader (unless using conservative output depth).](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#16.9.3%20Conservative%20Output%20Depth%20(Conservative%20oDepth))
+* [Early Z will be disabled if you have discard in the pixel shader](https://www.khronos.org/opengl/wiki/Early_Fragment_Test#Limitations) or [output depth from pixel shader (unless using conservative output depth).](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm#16.9.3%20Conservative%20Output%20Depth%20(Conservative%20oDepth))
 
 * [Register space (shader space) in DX12 can be used as a way to separate uniform variables just like set in Vulkan does.](https://twitter.com/longbool/status/1137170662353788929)
 
