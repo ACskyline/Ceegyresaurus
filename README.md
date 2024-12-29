@@ -260,6 +260,8 @@ This is a personal deposit for computer graphics related resource, please let me
 
 * [Early Z (A trip through the Graphics Pipeline 2011, part 7)](https://fgiesen.wordpress.com/2011/07/08/a-trip-through-the-graphics-pipeline-2011-part-7/)
 
+* [Optimizing Software Occlusion Culling – index](https://fgiesen.wordpress.com/2013/02/17/optimizing-sw-occlusion-culling-index/)
+
 #### Shadow Maps
 
 * [GDC 2008 Soft Shadow Mapping](http://developer.download.nvidia.com/presentations/2008/GDC/GDC08_SoftShadowMapping.pdf)
