@@ -392,6 +392,8 @@ This is a personal deposit for computer graphics related resource, please let me
 
 * [Parallel Prefix Sum (Scan) with CUDA](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda)
 
+* [Static Initialization Order Fiasco](https://pabloariasal.github.io/2020/01/02/static-variable-initialization/#solving-the-static-initialization-order-fiasco)
+
 ### 7.Graphics APIs
 
 * [Vulkan Textures Unbound](http://roar11.com/2019/06/vulkan-textures-unbound/)
